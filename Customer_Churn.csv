@@ -1,0 +1,1001 @@
+Customer_ID,Gender,Age,Tenure,Monthly_Charges,Total_Charges,Contract,Internet_Service,Payment_Method,Tech_Support,Online_Backup,Streaming_TV,Churn
+CUST0001,Female,54,28,25.13,716.59,Two Year,Fiber,Debit Card,Yes,Yes,Yes,No
+CUST0002,Female,35,15,103.15,1548.84,Month-to-Month,Fiber,Credit Card,No,No,Yes,No
+CUST0003,Male,26,27,110.35,3024.54,Month-to-Month,Fiber,E-Wallet,No,Yes,Yes,No
+CUST0004,Male,28,28,70.55,1976.44,Month-to-Month,Fiber,UPI,No,No,Yes,Yes
+CUST0005,Female,56,56,31.22,1711.29,One Year,None,Debit Card,No,Yes,Yes,No
+CUST0006,Male,66,22,90.81,2042.72,Month-to-Month,Fiber,UPI,Yes,Yes,Yes,Yes
+CUST0007,Female,69,36,29.1,1062.52,Month-to-Month,None,E-Wallet,Yes,No,Yes,No
+CUST0008,Female,30,70,106.02,7391.83,Month-to-Month,Fiber,E-Wallet,Yes,Yes,No,Yes
+CUST0009,Female,19,13,28.29,320.95,Month-to-Month,DSL,Credit Card,No,No,Yes,No
+CUST0010,Female,66,3,22.89,47.91,Two Year,DSL,E-Wallet,Yes,No,No,No
+CUST0011,Male,43,61,73.95,4498.94,Month-to-Month,Fiber,Debit Card,Yes,No,Yes,No
+CUST0012,Female,27,29,31.64,885.78,Two Year,Fiber,Debit Card,Yes,Yes,No,No
+CUST0013,Female,32,41,24.25,1041.0,Month-to-Month,DSL,E-Wallet,No,No,No,Yes
+CUST0014,Male,48,31,29.69,928.58,Two Year,Fiber,UPI,Yes,No,No,Yes
+CUST0015,Female,40,68,54.61,3743.19,Month-to-Month,None,UPI,Yes,Yes,Yes,Yes
+CUST0016,Female,38,38,93.42,3585.86,Month-to-Month,Fiber,Debit Card,No,No,Yes,Yes
+CUST0017,Male,55,47,76.37,3596.91,Month-to-Month,DSL,Bank Transfer,No,Yes,No,No
+CUST0018,Male,49,62,93.41,5823.82,Month-to-Month,Fiber,UPI,No,No,Yes,Yes
+CUST0019,Male,46,69,85.68,5867.97,Two Year,None,Bank Transfer,No,No,Yes,No
+CUST0020,Male,70,6,69.48,451.36,One Year,None,UPI,No,Yes,Yes,No
+CUST0021,Male,20,11,41.08,487.81,One Year,Fiber,E-Wallet,Yes,Yes,Yes,No
+CUST0022,Male,64,28,34.6,979.64,One Year,Fiber,Debit Card,No,Yes,No,No
+CUST0023,Female,26,56,62.81,3526.87,Month-to-Month,DSL,Bank Transfer,No,No,No,No
+CUST0024,Female,35,29,93.7,2764.9,Two Year,Fiber,Credit Card,Yes,No,Yes,No
+CUST0025,Male,64,45,99.39,4497.7,Month-to-Month,DSL,Credit Card,Yes,No,No,Yes
+CUST0026,Male,36,2,119.07,252.46,One Year,DSL,Debit Card,Yes,No,Yes,No
+CUST0027,Female,20,6,67.78,373.08,Two Year,DSL,Bank Transfer,No,Yes,Yes,No
+CUST0028,Male,35,25,101.2,2565.97,Month-to-Month,Fiber,UPI,No,Yes,No,Yes
+CUST0029,Female,50,22,73.44,1583.26,Month-to-Month,Fiber,Debit Card,No,No,No,Yes
+CUST0030,Female,20,17,79.15,1342.77,Month-to-Month,Fiber,Bank Transfer,No,Yes,Yes,No
+CUST0031,Female,47,63,34.47,2166.59,Month-to-Month,None,Bank Transfer,No,No,Yes,No
+CUST0032,Male,57,58,97.13,5603.4,One Year,Fiber,Bank Transfer,Yes,Yes,No,No
+CUST0033,Male,52,40,72.52,2922.1,Two Year,Fiber,E-Wallet,Yes,Yes,Yes,No
+CUST0034,Male,61,66,91.5,5997.73,Month-to-Month,DSL,E-Wallet,No,Yes,No,No
+CUST0035,Female,31,52,45.02,2384.92,One Year,Fiber,E-Wallet,Yes,No,No,No
+CUST0036,Female,54,72,21.2,1490.64,Two Year,DSL,Credit Card,No,Yes,No,Yes
+CUST0037,Female,18,63,58.13,3659.18,Month-to-Month,Fiber,UPI,No,Yes,No,No
+CUST0038,Male,32,2,96.95,201.05,One Year,DSL,UPI,No,No,No,Yes
+CUST0039,Female,32,56,87.16,4915.75,One Year,DSL,Credit Card,No,No,Yes,No
+CUST0040,Female,28,34,38.22,1277.17,One Year,Fiber,Debit Card,No,No,No,Yes
+CUST0041,Male,34,22,79.05,1702.66,One Year,Fiber,Credit Card,Yes,No,Yes,No
+CUST0042,Male,65,29,50.29,1430.89,Month-to-Month,Fiber,E-Wallet,Yes,Yes,No,No
+CUST0043,Female,39,41,62.88,2602.88,One Year,Fiber,UPI,Yes,Yes,Yes,No
+CUST0044,Male,25,52,59.49,3119.1,Month-to-Month,DSL,Bank Transfer,Yes,Yes,No,Yes
+CUST0045,Male,25,20,106.26,2154.09,Month-to-Month,DSL,Credit Card,No,Yes,No,No
+CUST0046,Female,20,47,56.93,2719.7,One Year,Fiber,Debit Card,Yes,No,No,No
+CUST0047,Male,37,72,96.73,7002.51,One Year,Fiber,Debit Card,Yes,No,Yes,Yes
+CUST0048,Male,21,43,88.6,3823.01,Month-to-Month,DSL,E-Wallet,Yes,No,No,No
+CUST0049,Male,70,56,102.08,5674.31,One Year,None,Credit Card,Yes,No,Yes,Yes
+CUST0050,Male,27,26,55.58,1490.29,One Year,DSL,UPI,Yes,No,Yes,No
+CUST0051,Male,51,52,42.24,2158.11,Month-to-Month,Fiber,Credit Card,No,Yes,Yes,Yes
+CUST0052,Female,34,32,92.46,2976.74,Month-to-Month,Fiber,Credit Card,No,No,Yes,No
+CUST0053,Female,38,15,85.75,1297.79,One Year,Fiber,Credit Card,Yes,Yes,Yes,Yes
+CUST0054,Female,27,20,50.38,972.17,Month-to-Month,DSL,E-Wallet,No,Yes,Yes,Yes
+CUST0055,Female,25,22,78.68,1722.43,Month-to-Month,Fiber,Bank Transfer,No,Yes,Yes,Yes
+CUST0056,Female,41,59,78.98,4613.89,Two Year,Fiber,E-Wallet,Yes,Yes,No,No
+CUST0057,Male,22,66,106.24,7058.35,Month-to-Month,DSL,UPI,Yes,Yes,No,No
+CUST0058,Female,21,49,112.55,5510.14,Month-to-Month,Fiber,UPI,No,No,No,No
+CUST0059,Female,61,68,85.54,5789.76,Two Year,Fiber,E-Wallet,No,No,Yes,No
+CUST0060,Male,56,48,54.31,2625.91,One Year,DSL,Debit Card,Yes,No,No,No
+CUST0061,Male,32,57,41.71,2414.56,Month-to-Month,Fiber,E-Wallet,Yes,No,No,Yes
+CUST0062,Female,35,41,89.71,3711.72,Month-to-Month,DSL,Bank Transfer,Yes,Yes,Yes,Yes
+CUST0063,Male,22,53,71.36,3805.2,One Year,Fiber,UPI,Yes,Yes,No,No
+CUST0064,Male,67,64,80.31,5151.87,Month-to-Month,None,UPI,Yes,Yes,Yes,Yes
+CUST0065,Female,54,58,31.2,1843.48,Month-to-Month,DSL,Bank Transfer,No,No,No,Yes
+CUST0066,Female,27,27,56.89,1522.46,Month-to-Month,DSL,UPI,No,No,Yes,No
+CUST0067,Female,33,68,20.9,1440.98,Month-to-Month,DSL,Debit Card,Yes,Yes,Yes,Yes
+CUST0068,Male,62,68,98.78,6677.73,Month-to-Month,Fiber,UPI,No,Yes,Yes,Yes
+CUST0069,Female,18,29,117.97,3447.97,Month-to-Month,DSL,Credit Card,Yes,No,Yes,Yes
+CUST0070,Male,20,2,110.85,262.2,Month-to-Month,None,Debit Card,Yes,Yes,Yes,Yes
+CUST0071,Female,53,9,41.0,356.34,Month-to-Month,Fiber,Debit Card,Yes,No,No,No
+CUST0072,Male,70,17,92.61,1577.67,Month-to-Month,Fiber,UPI,Yes,Yes,No,Yes
+CUST0073,Female,62,1,40.42,31.07,Month-to-Month,Fiber,Credit Card,Yes,No,Yes,No
+CUST0074,Male,65,13,30.95,395.46,Month-to-Month,Fiber,Debit Card,Yes,Yes,Yes,No
+CUST0075,Male,32,10,40.6,449.21,Two Year,Fiber,Bank Transfer,No,No,No,No
+CUST0076,Female,29,17,59.08,1048.53,One Year,Fiber,Bank Transfer,Yes,No,Yes,No
+CUST0077,Male,62,54,80.23,4324.84,Month-to-Month,Fiber,E-Wallet,Yes,Yes,No,Yes
+CUST0078,Male,21,39,35.11,1382.5,Two Year,DSL,Debit Card,No,Yes,No,No
+CUST0079,Male,39,70,47.31,3349.42,Two Year,DSL,Debit Card,No,No,No,No
+CUST0080,Male,62,22,87.53,1891.85,Two Year,DSL,UPI,No,No,Yes,No
+CUST0081,Male,41,53,118.08,6256.02,Two Year,Fiber,UPI,Yes,Yes,No,No
+CUST0082,Male,59,46,42.58,1961.15,Two Year,Fiber,E-Wallet,Yes,No,No,No
+CUST0083,Male,30,20,101.29,2027.15,One Year,None,UPI,No,No,No,Yes
+CUST0084,Female,24,32,44.87,1415.8,One Year,None,UPI,No,No,Yes,No
+CUST0085,Female,34,57,47.24,2661.16,Month-to-Month,DSL,Bank Transfer,No,Yes,Yes,No
+CUST0086,Male,26,62,32.49,2053.98,Month-to-Month,DSL,Credit Card,No,Yes,No,Yes
+CUST0087,Male,59,52,93.35,4819.62,One Year,Fiber,Credit Card,Yes,Yes,No,No
+CUST0088,Female,18,68,29.26,1944.7,Two Year,DSL,Debit Card,No,No,Yes,Yes
+CUST0089,Female,70,18,29.79,578.99,One Year,Fiber,Credit Card,Yes,Yes,No,No
+CUST0090,Female,44,64,65.86,4206.98,Month-to-Month,None,Credit Card,Yes,No,No,Yes
+CUST0091,Female,23,8,35.87,270.74,One Year,Fiber,Debit Card,No,Yes,No,No
+CUST0092,Female,29,57,119.29,6794.88,Month-to-Month,Fiber,Bank Transfer,No,No,No,Yes
+CUST0093,Female,28,57,29.07,1653.19,One Year,Fiber,UPI,Yes,Yes,No,Yes
+CUST0094,Male,19,62,56.79,3486.04,Two Year,Fiber,Credit Card,Yes,No,No,No
+CUST0095,Female,40,20,36.3,759.44,Month-to-Month,Fiber,Bank Transfer,No,Yes,No,No
+CUST0096,Female,48,9,107.87,1013.52,Month-to-Month,Fiber,UPI,Yes,No,No,No
+CUST0097,Female,67,39,71.2,2803.15,Month-to-Month,Fiber,Debit Card,Yes,Yes,No,No
+CUST0098,Male,56,60,87.74,5284.46,One Year,Fiber,Bank Transfer,Yes,No,No,No
+CUST0099,Female,21,5,61.14,276.02,Month-to-Month,Fiber,Credit Card,Yes,Yes,Yes,Yes
+CUST0100,Female,69,11,49.09,557.69,Month-to-Month,DSL,Credit Card,Yes,Yes,Yes,No
+CUST0101,Female,31,39,74.61,2905.47,One Year,None,Credit Card,Yes,No,Yes,No
+CUST0102,Male,53,47,54.52,2515.64,Month-to-Month,None,Bank Transfer,Yes,No,No,Yes
+CUST0103,Female,48,53,47.82,2509.04,Two Year,Fiber,UPI,No,No,No,No
+CUST0104,Male,40,10,50.18,503.65,Month-to-Month,DSL,E-Wallet,Yes,Yes,No,Yes
+CUST0105,Female,28,28,36.49,1031.53,Month-to-Month,Fiber,Bank Transfer,Yes,Yes,Yes,No
+CUST0106,Female,46,25,79.92,2022.24,One Year,None,UPI,No,No,No,No
+CUST0107,Female,52,40,110.38,4378.02,Month-to-Month,None,Credit Card,No,Yes,No,Yes
+CUST0108,Female,58,12,119.71,1407.22,One Year,Fiber,Debit Card,Yes,No,No,No
+CUST0109,Female,65,31,35.44,1135.91,Month-to-Month,Fiber,Debit Card,No,Yes,No,No
+CUST0110,Female,55,24,78.89,1889.32,One Year,Fiber,UPI,Yes,No,Yes,Yes
+CUST0111,Male,63,48,33.89,1618.32,Two Year,DSL,Bank Transfer,No,Yes,Yes,No
+CUST0112,Male,48,47,28.08,1327.82,Month-to-Month,DSL,UPI,No,No,Yes,No
+CUST0113,Female,45,72,80.68,5851.04,Month-to-Month,DSL,UPI,Yes,Yes,No,No
+CUST0114,Male,50,6,30.61,174.37,One Year,Fiber,UPI,Yes,No,Yes,Yes
+CUST0115,Female,21,12,50.96,629.12,Month-to-Month,Fiber,E-Wallet,No,No,Yes,No
+CUST0116,Female,19,31,42.75,1283.45,Two Year,Fiber,Debit Card,No,Yes,No,No
+CUST0117,Female,43,36,54.93,1947.47,Month-to-Month,DSL,Credit Card,Yes,No,No,No
+CUST0118,Male,36,70,117.83,8277.44,Month-to-Month,DSL,Credit Card,No,No,Yes,Yes
+CUST0119,Female,35,30,91.64,2718.69,Month-to-Month,DSL,Credit Card,Yes,No,No,Yes
+CUST0120,Female,23,30,110.91,3286.86,One Year,Fiber,Credit Card,Yes,No,No,No
+CUST0121,Female,54,67,79.6,5309.75,Month-to-Month,DSL,Bank Transfer,Yes,Yes,No,Yes
+CUST0122,Male,22,14,25.29,339.54,One Year,Fiber,UPI,Yes,No,Yes,No
+CUST0123,Male,56,26,77.9,2069.87,One Year,Fiber,Debit Card,Yes,Yes,Yes,No
+CUST0124,Male,62,53,37.69,1952.94,Month-to-Month,Fiber,Debit Card,Yes,No,Yes,No
+CUST0125,Female,27,7,82.64,590.71,One Year,None,UPI,No,Yes,No,No
+CUST0126,Male,67,6,38.74,196.64,Month-to-Month,Fiber,Bank Transfer,No,Yes,No,Yes
+CUST0127,Male,30,48,24.62,1223.54,Month-to-Month,DSL,E-Wallet,Yes,Yes,No,No
+CUST0128,Male,57,64,66.43,4260.0,One Year,DSL,UPI,Yes,Yes,No,No
+CUST0129,Female,45,62,42.18,2647.81,One Year,DSL,Credit Card,Yes,Yes,Yes,Yes
+CUST0130,Male,61,21,98.91,2081.88,Month-to-Month,Fiber,E-Wallet,No,Yes,No,Yes
+CUST0131,Male,61,62,23.69,1499.47,Month-to-Month,Fiber,Credit Card,No,No,Yes,No
+CUST0132,Male,20,37,101.55,3789.62,One Year,DSL,E-Wallet,Yes,No,Yes,Yes
+CUST0133,Male,53,63,63.03,4012.73,One Year,DSL,Credit Card,No,Yes,No,No
+CUST0134,Male,66,1,55.31,50.28,One Year,Fiber,UPI,No,Yes,No,No
+CUST0135,Male,43,4,64.39,236.08,Month-to-Month,Fiber,Bank Transfer,Yes,No,Yes,No
+CUST0136,Female,62,36,68.69,2504.81,One Year,Fiber,Debit Card,No,Yes,No,No
+CUST0137,Female,19,10,113.76,1166.01,Month-to-Month,None,UPI,No,No,Yes,No
+CUST0138,Female,44,49,60.85,2977.58,Month-to-Month,Fiber,Credit Card,Yes,Yes,Yes,No
+CUST0139,Female,44,67,94.18,6334.58,Month-to-Month,Fiber,E-Wallet,Yes,No,Yes,No
+CUST0140,Male,52,12,54.84,679.12,Month-to-Month,None,Credit Card,Yes,No,Yes,No
+CUST0141,Female,58,33,102.74,3343.35,Month-to-Month,Fiber,UPI,Yes,Yes,No,Yes
+CUST0142,Female,31,35,29.76,1089.89,One Year,DSL,Bank Transfer,No,No,Yes,Yes
+CUST0143,Female,29,2,39.38,46.98,One Year,Fiber,Debit Card,No,Yes,Yes,No
+CUST0144,Female,53,16,83.67,1312.29,Two Year,Fiber,Credit Card,No,Yes,Yes,No
+CUST0145,Female,58,23,65.37,1548.44,One Year,Fiber,E-Wallet,No,Yes,Yes,Yes
+CUST0146,Male,26,63,32.12,2013.76,Month-to-Month,Fiber,UPI,No,No,No,Yes
+CUST0147,Female,58,40,28.31,1141.08,Month-to-Month,Fiber,UPI,No,Yes,No,No
+CUST0148,Female,33,5,69.99,341.7,One Year,Fiber,Debit Card,Yes,No,Yes,Yes
+CUST0149,Female,34,45,102.26,4595.0,Month-to-Month,DSL,Bank Transfer,Yes,No,Yes,Yes
+CUST0150,Female,47,57,63.2,3625.37,Month-to-Month,Fiber,UPI,Yes,Yes,Yes,Yes
+CUST0151,Male,24,19,93.06,1807.21,One Year,Fiber,E-Wallet,No,Yes,Yes,Yes
+CUST0152,Male,37,20,60.54,1171.77,One Year,Fiber,UPI,Yes,No,Yes,No
+CUST0153,Female,65,5,113.76,580.22,Month-to-Month,Fiber,UPI,Yes,No,Yes,Yes
+CUST0154,Male,59,69,57.03,3981.74,Month-to-Month,None,UPI,Yes,No,Yes,No
+CUST0155,Male,68,2,58.14,129.35,Month-to-Month,Fiber,Debit Card,No,No,Yes,Yes
+CUST0156,Female,68,55,69.0,3766.04,One Year,Fiber,Bank Transfer,No,No,Yes,No
+CUST0157,Female,43,32,36.25,1128.84,One Year,Fiber,UPI,Yes,No,No,Yes
+CUST0158,Male,52,31,56.39,1744.74,Month-to-Month,DSL,E-Wallet,No,Yes,Yes,No
+CUST0159,Female,61,56,67.58,3782.96,Month-to-Month,DSL,E-Wallet,No,No,Yes,Yes
+CUST0160,Female,35,51,24.07,1198.04,One Year,DSL,UPI,Yes,Yes,No,No
+CUST0161,Male,48,58,56.51,3268.37,Month-to-Month,Fiber,Debit Card,Yes,No,No,Yes
+CUST0162,Male,58,70,42.5,2950.02,One Year,Fiber,Debit Card,No,Yes,No,Yes
+CUST0163,Female,26,24,70.74,1723.53,One Year,Fiber,Credit Card,Yes,No,Yes,No
+CUST0164,Female,67,25,25.17,660.1,Month-to-Month,DSL,UPI,Yes,No,Yes,No
+CUST0165,Male,30,54,78.32,4258.49,One Year,Fiber,Debit Card,Yes,No,Yes,No
+CUST0166,Female,31,70,28.45,1980.02,Month-to-Month,Fiber,Credit Card,No,Yes,No,Yes
+CUST0167,Female,66,45,23.5,1107.35,One Year,Fiber,E-Wallet,No,No,No,No
+CUST0168,Male,35,28,94.34,2630.48,Month-to-Month,DSL,Bank Transfer,No,Yes,Yes,No
+CUST0169,Female,26,49,117.77,5736.41,Month-to-Month,Fiber,Credit Card,No,No,No,No
+CUST0170,Male,40,24,25.73,665.82,Two Year,Fiber,Debit Card,No,Yes,No,No
+CUST0171,Female,49,17,47.4,828.39,One Year,Fiber,Debit Card,No,No,No,No
+CUST0172,Male,53,1,102.85,86.28,Two Year,DSL,E-Wallet,Yes,Yes,Yes,Yes
+CUST0173,Male,52,67,45.5,3094.97,Month-to-Month,DSL,UPI,Yes,No,No,No
+CUST0174,Male,19,67,119.87,8049.18,One Year,Fiber,UPI,Yes,No,Yes,No
+CUST0175,Female,44,12,85.32,998.24,Month-to-Month,DSL,Debit Card,No,Yes,No,Yes
+CUST0176,Male,59,20,45.09,883.77,Month-to-Month,Fiber,Bank Transfer,No,No,Yes,Yes
+CUST0177,Female,45,43,78.42,3361.96,One Year,Fiber,Bank Transfer,Yes,Yes,Yes,Yes
+CUST0178,Female,38,7,79.48,508.38,Month-to-Month,Fiber,E-Wallet,No,No,Yes,No
+CUST0179,Male,48,51,87.26,4469.47,Two Year,Fiber,Credit Card,Yes,Yes,No,Yes
+CUST0180,Female,59,34,100.14,3374.9,Month-to-Month,Fiber,Debit Card,No,Yes,No,No
+CUST0181,Male,68,11,110.84,1188.46,One Year,DSL,UPI,Yes,No,No,No
+CUST0182,Female,52,15,84.82,1226.73,One Year,Fiber,Bank Transfer,No,Yes,No,Yes
+CUST0183,Male,37,32,44.2,1389.52,Two Year,DSL,Credit Card,Yes,Yes,No,No
+CUST0184,Female,53,12,117.53,1430.05,Month-to-Month,DSL,UPI,No,Yes,No,No
+CUST0185,Male,45,48,87.77,4173.69,Two Year,Fiber,E-Wallet,Yes,Yes,No,Yes
+CUST0186,Female,53,19,28.07,539.31,Month-to-Month,Fiber,Debit Card,No,No,No,No
+CUST0187,Female,43,48,59.08,2878.09,Month-to-Month,None,E-Wallet,Yes,Yes,No,Yes
+CUST0188,Male,64,6,76.61,475.42,Month-to-Month,None,E-Wallet,Yes,Yes,No,Yes
+CUST0189,Female,24,12,31.15,387.12,Two Year,DSL,Bank Transfer,Yes,Yes,No,No
+CUST0190,Male,63,56,110.76,6244.59,Month-to-Month,Fiber,Bank Transfer,Yes,Yes,No,Yes
+CUST0191,Female,46,11,103.18,1158.35,One Year,DSL,Bank Transfer,Yes,Yes,No,Yes
+CUST0192,Female,54,36,42.55,1558.11,One Year,DSL,Debit Card,Yes,No,Yes,No
+CUST0193,Female,34,40,76.15,3082.59,Two Year,DSL,UPI,No,Yes,No,Yes
+CUST0194,Female,54,63,111.96,7078.74,Two Year,Fiber,Debit Card,Yes,No,Yes,No
+CUST0195,Male,38,26,89.18,2312.85,Two Year,Fiber,Debit Card,Yes,No,Yes,No
+CUST0196,Male,65,39,86.08,3374.71,Two Year,DSL,Debit Card,No,Yes,Yes,Yes
+CUST0197,Male,50,52,75.49,3918.87,Month-to-Month,Fiber,E-Wallet,Yes,Yes,No,No
+CUST0198,Male,22,44,63.49,2827.88,Two Year,DSL,Credit Card,Yes,No,Yes,No
+CUST0199,Male,28,9,46.3,373.07,Two Year,None,UPI,Yes,Yes,No,Yes
+CUST0200,Female,34,20,115.51,2283.22,Month-to-Month,Fiber,Credit Card,No,No,Yes,Yes
+CUST0201,Male,39,40,80.73,3277.54,One Year,None,Bank Transfer,Yes,No,No,Yes
+CUST0202,Female,40,11,48.27,552.18,Month-to-Month,Fiber,Bank Transfer,Yes,No,No,Yes
+CUST0203,Female,28,46,83.23,3848.49,One Year,Fiber,Bank Transfer,Yes,Yes,Yes,No
+CUST0204,Male,27,33,63.29,2065.21,Month-to-Month,DSL,Bank Transfer,Yes,No,Yes,No
+CUST0205,Female,31,31,69.26,2122.21,Two Year,DSL,E-Wallet,Yes,Yes,Yes,No
+CUST0206,Female,41,22,76.89,1732.76,One Year,DSL,UPI,Yes,Yes,Yes,No
+CUST0207,Female,47,37,96.36,3563.61,One Year,DSL,Credit Card,Yes,No,No,No
+CUST0208,Male,50,69,32.23,2262.28,Two Year,Fiber,Credit Card,No,No,Yes,No
+CUST0209,Female,28,71,66.37,4740.15,Month-to-Month,Fiber,Bank Transfer,Yes,Yes,No,Yes
+CUST0210,Male,69,53,53.47,2833.3,Month-to-Month,Fiber,Credit Card,Yes,Yes,Yes,No
+CUST0211,Female,51,5,63.37,338.98,One Year,Fiber,E-Wallet,Yes,No,Yes,No
+CUST0212,Female,62,5,110.24,535.8,Two Year,Fiber,Credit Card,No,No,Yes,No
+CUST0213,Male,22,64,71.26,4527.31,Month-to-Month,DSL,Debit Card,No,Yes,Yes,Yes
+CUST0214,Female,38,17,30.31,527.41,One Year,DSL,E-Wallet,Yes,No,Yes,Yes
+CUST0215,Female,47,52,35.53,1869.76,One Year,Fiber,Bank Transfer,No,No,No,No
+CUST0216,Female,25,49,41.14,2024.45,One Year,Fiber,Credit Card,Yes,Yes,No,No
+CUST0217,Male,48,42,86.26,3583.63,One Year,Fiber,Bank Transfer,No,No,Yes,No
+CUST0218,Male,54,13,111.74,1450.86,Month-to-Month,None,E-Wallet,Yes,No,No,Yes
+CUST0219,Male,55,48,63.99,3118.59,Month-to-Month,DSL,E-Wallet,Yes,No,No,Yes
+CUST0220,Male,47,52,95.84,4990.31,Two Year,DSL,UPI,Yes,Yes,No,No
+CUST0221,Female,26,68,77.13,5206.87,Month-to-Month,Fiber,E-Wallet,Yes,Yes,No,No
+CUST0222,Male,53,34,51.63,1801.98,One Year,None,Credit Card,Yes,Yes,Yes,No
+CUST0223,Male,23,30,46.91,1414.37,Month-to-Month,Fiber,Bank Transfer,Yes,Yes,Yes,No
+CUST0224,Male,35,10,25.0,208.09,Month-to-Month,None,E-Wallet,Yes,No,Yes,No
+CUST0225,Male,57,72,95.17,6806.05,Month-to-Month,Fiber,E-Wallet,Yes,No,No,Yes
+CUST0226,Male,59,5,88.51,450.84,Month-to-Month,Fiber,Credit Card,Yes,No,No,No
+CUST0227,Male,29,14,80.22,1129.39,Month-to-Month,Fiber,E-Wallet,Yes,No,No,Yes
+CUST0228,Female,27,14,108.08,1510.15,Two Year,Fiber,UPI,Yes,Yes,No,No
+CUST0229,Male,65,59,72.75,4280.91,Month-to-Month,Fiber,Credit Card,No,No,Yes,Yes
+CUST0230,Male,70,6,56.03,340.13,One Year,DSL,E-Wallet,No,Yes,No,No
+CUST0231,Male,25,71,104.06,7396.8,Two Year,Fiber,Debit Card,No,No,Yes,Yes
+CUST0232,Female,31,7,94.44,649.64,Month-to-Month,None,Credit Card,No,Yes,No,Yes
+CUST0233,Male,56,69,115.32,7950.57,One Year,Fiber,UPI,Yes,No,No,No
+CUST0234,Male,63,1,112.05,90.36,Month-to-Month,Fiber,UPI,Yes,No,No,Yes
+CUST0235,Male,61,16,96.17,1527.5,Month-to-Month,Fiber,E-Wallet,Yes,Yes,No,No
+CUST0236,Female,55,31,53.9,1685.76,Month-to-Month,None,Credit Card,No,No,No,No
+CUST0237,Male,52,29,64.62,1852.67,Month-to-Month,None,Debit Card,Yes,Yes,No,No
+CUST0238,Female,64,47,84.59,4011.29,Two Year,Fiber,UPI,Yes,Yes,No,Yes
+CUST0239,Female,61,23,64.6,1533.1,Month-to-Month,Fiber,Debit Card,Yes,Yes,Yes,No
+CUST0240,Female,61,41,96.38,3937.56,One Year,None,Credit Card,Yes,No,Yes,No
+CUST0241,Male,27,49,99.25,4889.81,One Year,Fiber,E-Wallet,No,Yes,Yes,No
+CUST0242,Male,50,13,78.67,1000.85,One Year,Fiber,Debit Card,No,No,No,Yes
+CUST0243,Male,57,27,70.38,1877.93,One Year,None,Bank Transfer,Yes,Yes,No,No
+CUST0244,Female,19,54,66.92,3611.11,Month-to-Month,DSL,Credit Card,No,No,No,Yes
+CUST0245,Female,55,42,28.72,1216.09,One Year,Fiber,Bank Transfer,Yes,No,Yes,No
+CUST0246,Female,40,15,70.13,1009.1,One Year,None,UPI,No,Yes,Yes,No
+CUST0247,Male,53,1,93.7,123.81,Month-to-Month,Fiber,UPI,No,No,No,Yes
+CUST0248,Male,45,71,90.45,6390.64,Month-to-Month,DSL,Debit Card,No,No,Yes,Yes
+CUST0249,Female,18,11,94.44,1048.55,Month-to-Month,Fiber,E-Wallet,No,Yes,No,Yes
+CUST0250,Female,45,15,50.78,716.86,Two Year,Fiber,Bank Transfer,No,Yes,No,Yes
+CUST0251,Male,28,34,35.26,1242.35,Month-to-Month,Fiber,E-Wallet,Yes,Yes,No,Yes
+CUST0252,Female,38,21,113.99,2408.98,One Year,DSL,Bank Transfer,No,Yes,No,Yes
+CUST0253,Female,52,36,95.05,3417.21,One Year,DSL,E-Wallet,No,No,Yes,No
+CUST0254,Female,25,3,57.93,182.5,One Year,DSL,E-Wallet,Yes,No,No,No
+CUST0255,Female,58,14,53.24,759.91,Month-to-Month,Fiber,Bank Transfer,Yes,Yes,Yes,Yes
+CUST0256,Female,28,32,23.72,729.47,Month-to-Month,DSL,Credit Card,Yes,No,No,No
+CUST0257,Female,59,48,96.37,4657.67,Month-to-Month,None,Debit Card,Yes,Yes,Yes,No
+CUST0258,Female,44,58,119.79,6932.53,Two Year,DSL,UPI,No,No,Yes,No
+CUST0259,Female,24,36,23.79,875.04,Month-to-Month,DSL,E-Wallet,No,Yes,No,No
+CUST0260,Female,36,71,33.51,2403.32,Month-to-Month,Fiber,Credit Card,Yes,Yes,Yes,Yes
+CUST0261,Male,49,2,23.37,92.64,Month-to-Month,DSL,Debit Card,Yes,Yes,No,No
+CUST0262,Male,48,24,77.87,1842.48,Month-to-Month,Fiber,UPI,Yes,No,Yes,No
+CUST0263,Male,43,27,25.04,661.07,Month-to-Month,DSL,E-Wallet,No,No,Yes,No
+CUST0264,Female,31,1,58.45,29.69,One Year,DSL,UPI,Yes,Yes,No,No
+CUST0265,Female,69,19,29.0,578.51,Month-to-Month,DSL,Debit Card,Yes,Yes,No,Yes
+CUST0266,Female,66,53,39.3,2044.27,Month-to-Month,Fiber,Credit Card,No,Yes,No,Yes
+CUST0267,Female,59,11,100.61,1073.12,Month-to-Month,Fiber,UPI,Yes,No,No,Yes
+CUST0268,Female,66,39,55.14,2138.7,Month-to-Month,DSL,Credit Card,Yes,Yes,No,No
+CUST0269,Male,48,71,57.03,4062.61,Month-to-Month,DSL,UPI,Yes,No,Yes,No
+CUST0270,Male,19,55,35.0,1896.82,Month-to-Month,DSL,UPI,Yes,Yes,Yes,No
+CUST0271,Female,49,40,78.04,3163.63,One Year,DSL,Credit Card,Yes,Yes,No,No
+CUST0272,Female,45,48,77.17,3672.85,Month-to-Month,Fiber,E-Wallet,Yes,Yes,No,No
+CUST0273,Female,50,36,36.88,1313.88,One Year,Fiber,Credit Card,Yes,Yes,No,No
+CUST0274,Female,39,6,110.77,619.93,Two Year,Fiber,Debit Card,No,Yes,No,No
+CUST0275,Female,32,35,23.99,815.8,One Year,Fiber,UPI,Yes,Yes,No,No
+CUST0276,Male,59,54,93.65,5032.87,Month-to-Month,DSL,Bank Transfer,Yes,No,Yes,No
+CUST0277,Female,20,52,58.9,3046.08,One Year,Fiber,Bank Transfer,No,Yes,No,No
+CUST0278,Female,38,50,67.02,3351.65,Two Year,Fiber,E-Wallet,Yes,Yes,No,No
+CUST0279,Female,47,1,92.62,138.96,Month-to-Month,DSL,Bank Transfer,Yes,No,Yes,Yes
+CUST0280,Female,32,60,75.43,4521.87,Two Year,Fiber,E-Wallet,No,Yes,Yes,No
+CUST0281,Male,26,71,41.81,3005.81,One Year,None,UPI,No,Yes,Yes,Yes
+CUST0282,Female,42,44,111.86,4961.26,One Year,Fiber,Credit Card,Yes,No,No,Yes
+CUST0283,Male,50,44,34.03,1520.67,Two Year,DSL,UPI,Yes,No,No,No
+CUST0284,Female,26,35,64.39,2227.92,Month-to-Month,Fiber,Credit Card,No,Yes,Yes,No
+CUST0285,Male,70,50,113.57,5716.02,Two Year,Fiber,Debit Card,Yes,No,Yes,No
+CUST0286,Female,43,54,70.71,3802.23,Month-to-Month,DSL,E-Wallet,No,No,Yes,No
+CUST0287,Female,26,31,116.82,3648.13,Two Year,DSL,E-Wallet,No,Yes,Yes,Yes
+CUST0288,Female,32,20,58.68,1161.48,Month-to-Month,Fiber,Credit Card,No,No,Yes,No
+CUST0289,Female,42,67,33.36,2201.03,Month-to-Month,DSL,Bank Transfer,Yes,No,No,No
+CUST0290,Male,55,62,105.87,6611.86,One Year,DSL,Debit Card,No,Yes,Yes,No
+CUST0291,Female,55,26,99.48,2541.87,Month-to-Month,Fiber,E-Wallet,Yes,No,Yes,Yes
+CUST0292,Male,53,57,110.44,6247.91,Month-to-Month,Fiber,Credit Card,No,No,Yes,Yes
+CUST0293,Female,30,27,99.83,2727.68,Two Year,Fiber,Debit Card,No,No,Yes,No
+CUST0294,Male,55,54,51.52,2794.84,One Year,Fiber,E-Wallet,No,Yes,No,No
+CUST0295,Male,55,46,27.38,1308.3,Month-to-Month,None,UPI,Yes,No,No,Yes
+CUST0296,Male,56,20,100.6,1989.16,Month-to-Month,Fiber,Credit Card,Yes,No,Yes,No
+CUST0297,Female,42,56,53.19,3015.79,Month-to-Month,Fiber,Bank Transfer,No,No,No,No
+CUST0298,Male,22,15,89.11,1323.06,Month-to-Month,None,UPI,Yes,Yes,Yes,Yes
+CUST0299,Female,19,29,47.98,1434.25,Two Year,Fiber,E-Wallet,Yes,Yes,Yes,No
+CUST0300,Male,49,40,90.52,3654.86,One Year,DSL,Credit Card,No,Yes,No,No
+CUST0301,Male,56,32,71.61,2253.62,Month-to-Month,DSL,UPI,Yes,Yes,Yes,No
+CUST0302,Male,70,20,81.87,1591.13,Month-to-Month,Fiber,UPI,Yes,No,No,No
+CUST0303,Female,38,29,40.96,1213.81,One Year,Fiber,UPI,Yes,No,No,Yes
+CUST0304,Male,68,51,85.03,4329.8,One Year,None,Credit Card,Yes,Yes,Yes,No
+CUST0305,Male,20,56,48.56,2724.48,Month-to-Month,DSL,Bank Transfer,Yes,No,Yes,No
+CUST0306,Male,68,1,71.93,112.52,One Year,DSL,UPI,Yes,No,No,No
+CUST0307,Female,20,43,113.3,4899.09,Two Year,Fiber,UPI,No,No,No,No
+CUST0308,Male,33,35,118.81,4128.35,One Year,DSL,Credit Card,Yes,Yes,Yes,No
+CUST0309,Female,25,65,81.56,5337.94,Month-to-Month,DSL,Debit Card,Yes,No,Yes,Yes
+CUST0310,Male,46,19,43.19,789.46,One Year,DSL,Debit Card,No,Yes,Yes,No
+CUST0311,Male,34,48,98.89,4756.5,Month-to-Month,None,Debit Card,No,Yes,Yes,Yes
+CUST0312,Female,34,1,106.41,129.88,One Year,DSL,UPI,No,No,Yes,No
+CUST0313,Male,28,37,73.67,2734.6,One Year,None,Credit Card,Yes,No,No,No
+CUST0314,Female,36,68,90.42,6153.41,Month-to-Month,Fiber,Credit Card,No,No,Yes,Yes
+CUST0315,Male,67,61,87.44,5300.86,Month-to-Month,Fiber,E-Wallet,Yes,Yes,No,No
+CUST0316,Female,23,43,29.59,1299.59,One Year,DSL,Bank Transfer,No,Yes,No,No
+CUST0317,Male,36,66,93.13,6171.3,Month-to-Month,Fiber,UPI,No,Yes,Yes,Yes
+CUST0318,Male,50,3,115.59,313.78,Two Year,DSL,E-Wallet,No,No,No,Yes
+CUST0319,Male,25,40,41.85,1669.32,Two Year,DSL,UPI,No,Yes,No,No
+CUST0320,Male,42,46,88.5,4066.49,One Year,DSL,Debit Card,Yes,Yes,No,No
+CUST0321,Male,36,50,108.09,5396.23,Two Year,Fiber,Bank Transfer,Yes,Yes,Yes,Yes
+CUST0322,Female,38,10,82.85,794.51,Month-to-Month,DSL,UPI,Yes,No,No,Yes
+CUST0323,Male,26,59,113.64,6749.58,One Year,Fiber,Credit Card,Yes,Yes,No,Yes
+CUST0324,Male,32,61,75.71,4598.39,Month-to-Month,Fiber,Debit Card,Yes,Yes,Yes,Yes
+CUST0325,Female,18,63,69.65,4340.88,Month-to-Month,Fiber,Debit Card,No,No,No,Yes
+CUST0326,Female,36,33,29.67,1011.24,Two Year,Fiber,Credit Card,Yes,No,No,No
+CUST0327,Male,33,71,39.55,2845.14,One Year,DSL,UPI,Yes,No,Yes,No
+CUST0328,Female,24,58,84.48,4930.37,Month-to-Month,Fiber,UPI,Yes,No,Yes,Yes
+CUST0329,Female,24,53,71.83,3847.48,Month-to-Month,DSL,UPI,Yes,No,Yes,Yes
+CUST0330,Male,35,7,38.8,317.54,Two Year,DSL,Credit Card,No,No,Yes,No
+CUST0331,Male,18,6,79.11,503.63,Two Year,Fiber,UPI,No,Yes,No,Yes
+CUST0332,Male,66,14,115.2,1565.34,Two Year,Fiber,Bank Transfer,No,Yes,Yes,Yes
+CUST0333,Female,45,20,112.25,2213.35,One Year,DSL,Debit Card,No,No,No,No
+CUST0334,Female,33,25,109.91,2739.93,Month-to-Month,None,UPI,Yes,No,Yes,No
+CUST0335,Male,49,1,95.58,98.8,Month-to-Month,Fiber,Bank Transfer,Yes,Yes,No,Yes
+CUST0336,Male,29,51,103.07,5297.64,Two Year,None,UPI,Yes,No,Yes,No
+CUST0337,Female,36,19,78.67,1497.81,One Year,Fiber,Bank Transfer,Yes,No,Yes,No
+CUST0338,Male,49,17,112.83,1879.56,Two Year,Fiber,Debit Card,Yes,No,No,No
+CUST0339,Male,53,53,107.55,5668.16,One Year,Fiber,Bank Transfer,No,No,Yes,Yes
+CUST0340,Male,52,58,101.64,5907.11,Two Year,Fiber,Credit Card,Yes,Yes,No,No
+CUST0341,Female,63,50,82.27,4088.34,One Year,DSL,UPI,Yes,Yes,Yes,No
+CUST0342,Female,58,25,68.97,1767.53,Month-to-Month,Fiber,E-Wallet,No,No,Yes,Yes
+CUST0343,Female,58,57,96.84,5549.42,Month-to-Month,Fiber,Bank Transfer,No,Yes,Yes,Yes
+CUST0344,Male,36,7,30.86,209.13,Month-to-Month,Fiber,Bank Transfer,No,No,Yes,No
+CUST0345,Male,40,2,42.68,96.44,Month-to-Month,DSL,UPI,No,Yes,No,No
+CUST0346,Female,24,36,115.89,4195.74,Month-to-Month,DSL,Credit Card,No,No,No,Yes
+CUST0347,Female,26,50,52.89,2662.44,One Year,DSL,Credit Card,No,No,No,No
+CUST0348,Female,50,24,84.16,2030.96,Month-to-Month,DSL,E-Wallet,No,Yes,No,No
+CUST0349,Female,18,48,40.54,1963.07,Two Year,DSL,Credit Card,Yes,Yes,Yes,No
+CUST0350,Female,41,3,103.75,308.19,Month-to-Month,DSL,Credit Card,No,Yes,Yes,Yes
+CUST0351,Female,30,26,22.71,625.67,Month-to-Month,Fiber,Credit Card,Yes,Yes,No,Yes
+CUST0352,Female,63,22,33.9,710.15,One Year,DSL,Bank Transfer,No,Yes,No,No
+CUST0353,Female,64,24,117.03,2828.39,One Year,DSL,Credit Card,No,Yes,Yes,No
+CUST0354,Female,27,9,94.72,882.59,Month-to-Month,DSL,UPI,Yes,Yes,No,Yes
+CUST0355,Male,50,11,21.79,253.05,One Year,Fiber,UPI,Yes,Yes,No,No
+CUST0356,Male,50,33,55.44,1821.05,Two Year,Fiber,UPI,No,Yes,No,Yes
+CUST0357,Male,36,34,57.72,1940.53,One Year,Fiber,Credit Card,No,No,Yes,No
+CUST0358,Male,49,67,53.31,3546.96,One Year,Fiber,E-Wallet,No,Yes,Yes,No
+CUST0359,Female,59,5,79.59,405.66,Two Year,Fiber,UPI,Yes,Yes,Yes,No
+CUST0360,Female,30,32,24.11,820.54,One Year,DSL,Credit Card,Yes,Yes,Yes,No
+CUST0361,Female,38,6,48.96,332.65,One Year,DSL,Credit Card,Yes,No,Yes,No
+CUST0362,Male,55,17,49.37,797.19,Month-to-Month,Fiber,E-Wallet,Yes,Yes,Yes,No
+CUST0363,Male,40,3,73.02,232.77,Two Year,DSL,UPI,Yes,No,Yes,No
+CUST0364,Female,63,41,114.49,4725.79,Two Year,Fiber,E-Wallet,No,No,Yes,No
+CUST0365,Female,53,39,94.68,3684.76,Two Year,Fiber,E-Wallet,Yes,No,No,No
+CUST0366,Female,30,7,65.77,508.97,Month-to-Month,DSL,Credit Card,Yes,Yes,Yes,No
+CUST0367,Female,35,42,39.04,1670.3,Month-to-Month,DSL,Bank Transfer,No,No,Yes,No
+CUST0368,Female,60,7,87.13,605.37,Month-to-Month,DSL,Bank Transfer,Yes,Yes,No,No
+CUST0369,Male,46,29,89.65,2647.56,One Year,Fiber,Credit Card,No,No,Yes,Yes
+CUST0370,Female,57,10,95.96,912.38,One Year,DSL,Credit Card,No,No,No,Yes
+CUST0371,Female,66,2,80.32,118.4,Two Year,Fiber,Credit Card,Yes,Yes,Yes,No
+CUST0372,Female,51,48,115.29,5491.07,Month-to-Month,None,Debit Card,Yes,Yes,No,No
+CUST0373,Male,56,17,74.82,1235.26,Month-to-Month,Fiber,Credit Card,Yes,No,Yes,Yes
+CUST0374,Male,26,31,51.32,1568.61,Month-to-Month,None,Debit Card,No,Yes,No,Yes
+CUST0375,Male,41,31,96.66,3042.44,One Year,DSL,UPI,Yes,No,No,No
+CUST0376,Male,70,8,111.89,859.03,Month-to-Month,None,Credit Card,Yes,No,No,No
+CUST0377,Male,52,43,30.92,1329.15,Two Year,Fiber,Debit Card,No,No,No,No
+CUST0378,Female,41,44,44.69,1949.2,Month-to-Month,Fiber,Debit Card,No,No,No,No
+CUST0379,Male,33,63,105.76,6655.91,Month-to-Month,None,E-Wallet,No,No,Yes,Yes
+CUST0380,Male,40,2,20.33,21.96,One Year,Fiber,Credit Card,Yes,No,Yes,No
+CUST0381,Male,33,72,58.65,4212.91,Month-to-Month,DSL,Credit Card,Yes,No,Yes,No
+CUST0382,Female,21,19,44.67,821.49,One Year,DSL,Debit Card,Yes,Yes,Yes,No
+CUST0383,Male,30,22,117.91,2599.39,Two Year,Fiber,Debit Card,Yes,No,No,No
+CUST0384,Male,61,43,106.99,4644.28,One Year,DSL,Credit Card,Yes,Yes,No,No
+CUST0385,Male,37,3,88.71,315.77,Month-to-Month,Fiber,E-Wallet,Yes,Yes,Yes,No
+CUST0386,Male,32,15,87.21,1265.32,Month-to-Month,DSL,Debit Card,No,Yes,Yes,No
+CUST0387,Male,46,31,28.9,933.81,Month-to-Month,Fiber,E-Wallet,Yes,No,No,No
+CUST0388,Male,65,46,57.17,2676.69,Month-to-Month,Fiber,Credit Card,No,Yes,No,No
+CUST0389,Female,30,32,101.9,3238.64,Month-to-Month,DSL,Credit Card,Yes,Yes,Yes,No
+CUST0390,Female,31,16,109.35,1731.77,One Year,Fiber,Credit Card,Yes,Yes,Yes,Yes
+CUST0391,Male,57,1,36.37,56.54,One Year,DSL,Debit Card,Yes,Yes,No,No
+CUST0392,Male,68,35,32.28,1138.13,One Year,Fiber,E-Wallet,No,Yes,Yes,No
+CUST0393,Male,20,17,32.1,573.17,Two Year,Fiber,Debit Card,No,No,No,Yes
+CUST0394,Female,24,15,88.77,1364.54,Month-to-Month,Fiber,Debit Card,No,Yes,No,Yes
+CUST0395,Female,49,47,49.09,2322.28,One Year,DSL,E-Wallet,Yes,No,Yes,No
+CUST0396,Female,18,29,66.71,1957.73,Month-to-Month,Fiber,Credit Card,No,No,No,Yes
+CUST0397,Female,35,29,28.32,808.04,One Year,DSL,UPI,No,Yes,Yes,No
+CUST0398,Female,34,32,108.07,3474.02,Month-to-Month,Fiber,Bank Transfer,Yes,Yes,Yes,Yes
+CUST0399,Female,59,14,59.29,792.32,One Year,Fiber,Bank Transfer,No,Yes,Yes,Yes
+CUST0400,Male,30,3,43.7,172.09,Two Year,Fiber,Debit Card,Yes,No,Yes,No
+CUST0401,Male,54,70,36.0,2519.62,One Year,DSL,Debit Card,Yes,Yes,No,No
+CUST0402,Male,68,66,48.02,3200.14,Month-to-Month,Fiber,UPI,Yes,Yes,No,Yes
+CUST0403,Female,61,63,118.22,7407.19,Two Year,DSL,Credit Card,No,Yes,No,Yes
+CUST0404,Male,20,65,43.09,2759.18,Month-to-Month,DSL,Debit Card,Yes,Yes,No,No
+CUST0405,Male,31,5,70.66,403.17,One Year,DSL,Credit Card,No,No,No,No
+CUST0406,Male,35,46,64.62,2949.85,Two Year,DSL,UPI,No,No,No,No
+CUST0407,Male,31,16,118.34,1863.83,One Year,Fiber,E-Wallet,Yes,Yes,Yes,No
+CUST0408,Male,64,5,72.56,332.36,One Year,Fiber,Debit Card,No,No,No,No
+CUST0409,Male,50,1,101.61,54.12,One Year,DSL,UPI,Yes,Yes,Yes,No
+CUST0410,Male,57,17,118.36,1988.42,Month-to-Month,DSL,E-Wallet,Yes,No,No,Yes
+CUST0411,Male,32,31,97.58,3067.61,Month-to-Month,Fiber,Bank Transfer,No,No,Yes,No
+CUST0412,Female,56,65,69.46,4508.01,Month-to-Month,Fiber,UPI,No,Yes,Yes,Yes
+CUST0413,Male,20,36,102.47,3736.95,Month-to-Month,Fiber,E-Wallet,Yes,No,Yes,Yes
+CUST0414,Male,60,41,84.49,3509.01,One Year,Fiber,Debit Card,No,No,No,Yes
+CUST0415,Female,54,45,109.78,4979.15,One Year,Fiber,E-Wallet,No,Yes,No,Yes
+CUST0416,Female,49,21,48.29,1001.1,One Year,Fiber,UPI,Yes,Yes,Yes,No
+CUST0417,Female,34,22,102.73,2302.58,Month-to-Month,Fiber,Debit Card,Yes,Yes,No,No
+CUST0418,Female,20,60,110.28,6639.91,Month-to-Month,Fiber,Bank Transfer,Yes,No,Yes,No
+CUST0419,Female,58,8,69.19,538.62,One Year,Fiber,Debit Card,No,Yes,Yes,No
+CUST0420,Male,61,50,102.53,5154.11,Two Year,Fiber,Bank Transfer,No,No,Yes,Yes
+CUST0421,Male,28,53,106.71,5665.34,One Year,Fiber,Credit Card,No,No,No,No
+CUST0422,Male,58,32,84.43,2694.22,One Year,Fiber,Credit Card,Yes,Yes,Yes,No
+CUST0423,Male,32,54,41.8,2233.82,One Year,Fiber,Debit Card,Yes,Yes,No,Yes
+CUST0424,Male,32,22,67.84,1497.98,One Year,Fiber,Bank Transfer,No,No,Yes,No
+CUST0425,Male,31,44,37.73,1612.03,Month-to-Month,Fiber,UPI,No,No,No,Yes
+CUST0426,Male,62,1,24.2,20.6,One Year,DSL,E-Wallet,Yes,Yes,No,No
+CUST0427,Male,38,10,60.35,566.54,Month-to-Month,Fiber,E-Wallet,Yes,No,Yes,No
+CUST0428,Male,29,72,68.19,4885.45,Two Year,Fiber,E-Wallet,No,Yes,No,Yes
+CUST0429,Male,25,16,52.7,880.48,One Year,Fiber,E-Wallet,Yes,No,Yes,No
+CUST0430,Female,40,68,32.62,2240.74,One Year,Fiber,UPI,Yes,Yes,No,Yes
+CUST0431,Female,60,15,51.87,779.94,Month-to-Month,Fiber,Debit Card,Yes,No,No,No
+CUST0432,Male,46,20,27.33,508.93,One Year,Fiber,Debit Card,Yes,Yes,No,No
+CUST0433,Female,56,43,47.42,2082.12,Month-to-Month,DSL,UPI,No,Yes,Yes,No
+CUST0434,Female,61,2,29.02,36.95,Two Year,Fiber,UPI,No,Yes,No,No
+CUST0435,Female,54,9,93.42,871.54,Two Year,Fiber,E-Wallet,No,No,Yes,No
+CUST0436,Male,58,65,41.02,2708.05,Month-to-Month,Fiber,Debit Card,No,Yes,Yes,Yes
+CUST0437,Female,66,18,36.48,688.51,Month-to-Month,Fiber,Bank Transfer,Yes,Yes,No,Yes
+CUST0438,Male,28,58,43.37,2540.32,Month-to-Month,Fiber,UPI,Yes,No,No,No
+CUST0439,Female,31,36,83.25,2953.49,Month-to-Month,Fiber,E-Wallet,Yes,Yes,Yes,No
+CUST0440,Male,25,66,42.98,2805.05,Month-to-Month,Fiber,Bank Transfer,No,No,Yes,No
+CUST0441,Female,61,8,33.13,286.37,One Year,Fiber,E-Wallet,Yes,No,Yes,No
+CUST0442,Male,29,40,38.14,1483.61,Month-to-Month,DSL,Credit Card,No,No,No,Yes
+CUST0443,Male,34,12,95.81,1118.16,Month-to-Month,DSL,Bank Transfer,No,Yes,No,Yes
+CUST0444,Female,26,69,63.38,4359.16,Month-to-Month,DSL,Credit Card,Yes,No,Yes,No
+CUST0445,Male,62,46,67.65,3139.67,Month-to-Month,DSL,E-Wallet,No,No,Yes,No
+CUST0446,Female,44,1,119.3,155.76,One Year,Fiber,E-Wallet,No,Yes,No,No
+CUST0447,Female,40,2,56.45,118.45,Month-to-Month,None,E-Wallet,No,Yes,No,Yes
+CUST0448,Male,21,48,93.57,4508.37,Two Year,DSL,E-Wallet,No,No,No,No
+CUST0449,Male,32,63,31.29,1985.75,Two Year,Fiber,Credit Card,Yes,No,Yes,Yes
+CUST0450,Female,56,67,41.97,2859.25,Two Year,DSL,Debit Card,Yes,Yes,No,No
+CUST0451,Female,35,12,116.07,1404.49,One Year,DSL,Debit Card,Yes,Yes,No,No
+CUST0452,Male,41,41,117.37,4784.12,Month-to-Month,Fiber,Credit Card,No,No,No,Yes
+CUST0453,Male,23,57,86.82,4994.87,Month-to-Month,DSL,UPI,No,No,Yes,No
+CUST0454,Female,60,25,26.28,696.31,Month-to-Month,DSL,Debit Card,No,No,No,No
+CUST0455,Male,50,49,98.28,4839.66,One Year,Fiber,UPI,Yes,Yes,No,No
+CUST0456,Female,42,17,41.73,707.21,Two Year,Fiber,Debit Card,No,No,Yes,No
+CUST0457,Male,50,56,109.6,6105.67,One Year,DSL,Bank Transfer,No,Yes,No,No
+CUST0458,Male,27,8,94.34,744.04,Two Year,None,Debit Card,Yes,No,No,No
+CUST0459,Female,24,42,64.17,2686.01,Month-to-Month,DSL,Bank Transfer,No,Yes,No,Yes
+CUST0460,Male,66,55,50.57,2749.8,Two Year,Fiber,E-Wallet,No,Yes,Yes,No
+CUST0461,Female,47,1,40.95,32.98,Month-to-Month,None,Debit Card,No,Yes,No,Yes
+CUST0462,Male,47,8,97.63,771.6,Two Year,Fiber,E-Wallet,No,No,Yes,Yes
+CUST0463,Male,54,49,118.46,5840.05,One Year,Fiber,Bank Transfer,Yes,Yes,No,No
+CUST0464,Male,23,53,80.62,4293.58,Two Year,None,UPI,Yes,Yes,No,No
+CUST0465,Female,51,51,26.52,1395.5,One Year,DSL,UPI,No,No,Yes,No
+CUST0466,Male,29,61,94.66,5786.87,One Year,Fiber,Bank Transfer,No,No,No,No
+CUST0467,Female,27,12,102.14,1210.37,One Year,Fiber,Bank Transfer,Yes,No,No,No
+CUST0468,Female,37,44,90.46,3970.54,Month-to-Month,Fiber,Credit Card,No,No,Yes,No
+CUST0469,Female,66,70,97.54,6795.65,Two Year,DSL,Credit Card,No,Yes,No,Yes
+CUST0470,Female,70,60,62.43,3792.46,Month-to-Month,DSL,UPI,Yes,No,No,No
+CUST0471,Male,21,54,86.65,4648.43,Month-to-Month,None,Credit Card,Yes,No,Yes,Yes
+CUST0472,Female,27,27,80.1,2123.97,Two Year,DSL,Bank Transfer,No,No,Yes,No
+CUST0473,Female,70,65,29.57,1906.88,Month-to-Month,DSL,Debit Card,Yes,Yes,No,No
+CUST0474,Male,44,4,35.03,159.44,Month-to-Month,Fiber,Debit Card,No,Yes,Yes,Yes
+CUST0475,Female,49,3,98.58,302.46,One Year,DSL,UPI,Yes,No,No,No
+CUST0476,Male,21,33,28.32,981.53,Month-to-Month,DSL,UPI,Yes,No,Yes,No
+CUST0477,Female,32,57,34.08,1971.44,Month-to-Month,DSL,Credit Card,Yes,Yes,Yes,Yes
+CUST0478,Male,62,4,27.8,130.68,Month-to-Month,Fiber,Credit Card,No,No,Yes,No
+CUST0479,Female,50,2,49.18,62.95,One Year,Fiber,UPI,Yes,Yes,No,No
+CUST0480,Male,66,48,24.29,1126.37,Month-to-Month,Fiber,Debit Card,Yes,No,No,Yes
+CUST0481,Female,32,16,114.7,1849.26,Month-to-Month,Fiber,E-Wallet,Yes,Yes,Yes,No
+CUST0482,Female,40,71,32.72,2298.89,Month-to-Month,DSL,Credit Card,Yes,Yes,No,No
+CUST0483,Female,37,28,26.63,719.27,Month-to-Month,Fiber,Debit Card,No,No,Yes,Yes
+CUST0484,Female,23,57,94.65,5355.83,Month-to-Month,None,Bank Transfer,No,Yes,Yes,Yes
+CUST0485,Female,66,53,118.07,6271.19,One Year,DSL,E-Wallet,No,Yes,No,Yes
+CUST0486,Male,42,57,62.79,3606.63,Month-to-Month,Fiber,UPI,Yes,Yes,Yes,No
+CUST0487,Male,20,27,99.81,2684.05,Month-to-Month,DSL,Bank Transfer,Yes,No,No,Yes
+CUST0488,Male,57,53,49.86,2685.25,One Year,DSL,E-Wallet,Yes,No,Yes,No
+CUST0489,Male,64,58,34.91,2036.63,One Year,Fiber,UPI,Yes,No,Yes,Yes
+CUST0490,Male,23,40,38.54,1524.66,One Year,Fiber,Bank Transfer,No,Yes,No,No
+CUST0491,Female,37,3,35.83,90.22,Month-to-Month,Fiber,Bank Transfer,No,Yes,No,No
+CUST0492,Male,61,6,60.31,380.23,Month-to-Month,DSL,UPI,No,No,No,Yes
+CUST0493,Female,26,7,34.12,216.45,Two Year,None,E-Wallet,No,Yes,Yes,No
+CUST0494,Male,19,29,51.41,1455.32,Month-to-Month,DSL,Credit Card,Yes,Yes,Yes,Yes
+CUST0495,Male,63,55,44.37,2403.22,Two Year,DSL,Bank Transfer,Yes,No,Yes,No
+CUST0496,Male,61,6,44.12,293.12,One Year,DSL,E-Wallet,Yes,No,No,No
+CUST0497,Male,25,45,53.36,2415.96,One Year,DSL,Credit Card,Yes,No,No,No
+CUST0498,Female,59,32,44.98,1405.64,Two Year,DSL,Debit Card,Yes,Yes,No,No
+CUST0499,Male,19,20,78.92,1582.05,One Year,DSL,Bank Transfer,No,No,Yes,No
+CUST0500,Female,41,6,27.27,180.48,One Year,Fiber,Credit Card,Yes,Yes,No,No
+CUST0501,Female,59,15,58.8,873.41,One Year,Fiber,E-Wallet,No,Yes,Yes,No
+CUST0502,Female,18,64,66.91,4323.93,One Year,Fiber,Bank Transfer,Yes,Yes,No,No
+CUST0503,Male,70,30,70.34,2113.92,Month-to-Month,Fiber,Bank Transfer,Yes,Yes,Yes,No
+CUST0504,Male,70,44,104.22,4544.97,Month-to-Month,Fiber,E-Wallet,Yes,No,No,Yes
+CUST0505,Female,47,36,83.14,2972.53,One Year,DSL,Bank Transfer,No,No,No,Yes
+CUST0506,Female,24,42,44.9,1916.62,One Year,Fiber,E-Wallet,No,Yes,No,No
+CUST0507,Female,37,12,61.97,760.87,Month-to-Month,Fiber,E-Wallet,Yes,No,No,No
+CUST0508,Male,21,5,87.1,460.76,One Year,Fiber,Credit Card,No,No,No,No
+CUST0509,Male,21,17,37.63,633.73,Month-to-Month,DSL,Credit Card,No,Yes,No,Yes
+CUST0510,Female,49,35,86.01,3054.52,Month-to-Month,Fiber,Credit Card,Yes,Yes,Yes,No
+CUST0511,Male,47,37,57.16,2067.34,One Year,DSL,Bank Transfer,Yes,No,Yes,No
+CUST0512,Male,48,18,70.78,1262.15,Two Year,Fiber,UPI,Yes,Yes,No,No
+CUST0513,Female,33,29,92.87,2646.7,Month-to-Month,None,UPI,No,No,Yes,No
+CUST0514,Male,32,31,21.81,718.42,Month-to-Month,None,UPI,No,No,No,No
+CUST0515,Male,54,57,51.65,2931.11,Month-to-Month,None,Credit Card,Yes,No,Yes,Yes
+CUST0516,Male,56,23,74.09,1689.86,Month-to-Month,DSL,UPI,Yes,Yes,No,No
+CUST0517,Male,48,4,21.18,65.69,Month-to-Month,DSL,Debit Card,No,No,Yes,Yes
+CUST0518,Female,36,44,66.9,2935.62,One Year,Fiber,Bank Transfer,No,No,No,No
+CUST0519,Female,63,67,119.37,7988.4,Month-to-Month,DSL,UPI,Yes,No,Yes,Yes
+CUST0520,Female,46,38,66.19,2499.72,Two Year,Fiber,E-Wallet,Yes,Yes,No,No
+CUST0521,Male,32,50,31.82,1622.27,One Year,Fiber,Debit Card,Yes,Yes,No,No
+CUST0522,Male,43,63,92.56,5841.64,Month-to-Month,DSL,Credit Card,No,Yes,No,No
+CUST0523,Female,61,54,61.57,3314.38,One Year,DSL,Bank Transfer,Yes,No,No,Yes
+CUST0524,Male,23,14,56.19,762.43,Month-to-Month,DSL,Bank Transfer,Yes,No,Yes,Yes
+CUST0525,Female,54,68,65.22,4393.42,Two Year,None,Debit Card,No,No,No,No
+CUST0526,Female,39,65,32.48,2111.49,Two Year,Fiber,Bank Transfer,No,No,No,No
+CUST0527,Female,46,62,85.09,5292.73,Month-to-Month,DSL,Credit Card,Yes,No,Yes,Yes
+CUST0528,Male,62,22,108.62,2403.28,Month-to-Month,DSL,Bank Transfer,Yes,Yes,Yes,No
+CUST0529,Female,51,49,58.61,2879.23,Two Year,None,Debit Card,No,No,No,Yes
+CUST0530,Male,48,10,70.06,698.3,Month-to-Month,Fiber,Debit Card,Yes,No,No,Yes
+CUST0531,Male,23,7,22.62,155.0,Month-to-Month,None,E-Wallet,Yes,No,No,Yes
+CUST0532,Female,38,55,75.68,4189.68,Two Year,None,Debit Card,Yes,Yes,No,No
+CUST0533,Male,59,72,28.63,2098.92,One Year,DSL,E-Wallet,No,Yes,No,No
+CUST0534,Female,24,36,34.03,1196.42,One Year,Fiber,UPI,No,No,No,No
+CUST0535,Male,38,41,100.91,4116.74,One Year,Fiber,Bank Transfer,No,No,Yes,Yes
+CUST0536,Female,40,42,39.54,1692.64,Month-to-Month,Fiber,Credit Card,No,Yes,Yes,No
+CUST0537,Male,46,27,28.98,791.37,Month-to-Month,Fiber,Bank Transfer,No,Yes,Yes,No
+CUST0538,Female,57,21,92.03,1886.42,Month-to-Month,DSL,E-Wallet,No,No,Yes,No
+CUST0539,Male,68,49,114.57,5638.52,One Year,Fiber,UPI,No,Yes,No,Yes
+CUST0540,Female,23,14,90.69,1239.57,Two Year,Fiber,Bank Transfer,No,Yes,Yes,No
+CUST0541,Male,42,48,35.5,1704.95,Month-to-Month,DSL,Credit Card,No,Yes,Yes,Yes
+CUST0542,Male,29,9,61.96,514.86,Two Year,Fiber,Credit Card,Yes,No,No,No
+CUST0543,Male,34,62,72.44,4532.99,One Year,Fiber,Credit Card,Yes,Yes,Yes,No
+CUST0544,Male,45,2,103.86,254.92,Month-to-Month,DSL,Debit Card,Yes,No,Yes,Yes
+CUST0545,Male,66,54,56.7,3074.84,Month-to-Month,Fiber,Credit Card,No,Yes,No,Yes
+CUST0546,Male,31,24,38.36,946.39,One Year,DSL,Debit Card,No,Yes,No,No
+CUST0547,Male,64,45,67.68,3055.29,Two Year,Fiber,Debit Card,No,No,Yes,Yes
+CUST0548,Male,56,24,56.88,1387.62,Month-to-Month,Fiber,Debit Card,No,No,No,Yes
+CUST0549,Male,44,64,103.24,6608.88,Month-to-Month,DSL,E-Wallet,No,Yes,No,No
+CUST0550,Male,27,31,105.12,3250.66,Month-to-Month,DSL,E-Wallet,No,Yes,Yes,No
+CUST0551,Male,20,36,45.53,1614.48,Two Year,Fiber,UPI,No,No,No,No
+CUST0552,Female,22,1,64.53,66.35,One Year,Fiber,Bank Transfer,Yes,Yes,No,No
+CUST0553,Female,57,46,24.17,1138.68,Month-to-Month,Fiber,Debit Card,No,No,Yes,No
+CUST0554,Female,64,44,48.1,2126.79,One Year,DSL,Bank Transfer,Yes,No,Yes,No
+CUST0555,Female,63,24,49.28,1218.58,One Year,Fiber,UPI,Yes,No,No,No
+CUST0556,Male,41,40,71.1,2839.05,Month-to-Month,Fiber,Debit Card,No,No,Yes,No
+CUST0557,Female,24,58,119.81,6954.65,One Year,DSL,E-Wallet,Yes,No,No,No
+CUST0558,Female,42,31,86.91,2706.01,One Year,DSL,Debit Card,No,Yes,No,Yes
+CUST0559,Male,41,4,85.91,310.73,One Year,None,Credit Card,No,Yes,Yes,No
+CUST0560,Male,61,14,100.16,1362.78,One Year,Fiber,UPI,Yes,Yes,Yes,No
+CUST0561,Female,25,33,66.21,2157.8,Month-to-Month,Fiber,Bank Transfer,Yes,No,Yes,No
+CUST0562,Female,53,36,38.26,1400.37,Month-to-Month,Fiber,Debit Card,No,Yes,No,No
+CUST0563,Female,66,18,22.23,360.81,Month-to-Month,Fiber,Debit Card,Yes,No,Yes,No
+CUST0564,Female,28,45,54.44,2459.64,One Year,Fiber,UPI,No,Yes,No,No
+CUST0565,Female,50,62,97.68,6058.67,One Year,None,E-Wallet,No,No,No,No
+CUST0566,Female,52,22,102.08,2273.03,Month-to-Month,Fiber,E-Wallet,No,No,No,Yes
+CUST0567,Female,61,69,30.02,2105.34,One Year,DSL,E-Wallet,Yes,No,No,Yes
+CUST0568,Male,59,44,74.47,3257.08,Two Year,None,Debit Card,No,Yes,No,No
+CUST0569,Female,36,41,41.19,1705.82,Month-to-Month,Fiber,UPI,No,No,Yes,Yes
+CUST0570,Male,22,37,56.5,2083.72,Month-to-Month,DSL,UPI,No,No,No,Yes
+CUST0571,Female,45,32,67.02,2172.56,One Year,DSL,UPI,Yes,No,Yes,No
+CUST0572,Female,53,66,25.96,1718.83,Two Year,DSL,Bank Transfer,Yes,No,Yes,No
+CUST0573,Male,40,9,96.75,820.94,Month-to-Month,DSL,UPI,No,Yes,Yes,No
+CUST0574,Male,24,66,66.58,4359.61,One Year,None,Bank Transfer,Yes,Yes,Yes,No
+CUST0575,Male,59,3,74.62,194.39,One Year,DSL,Bank Transfer,No,Yes,No,No
+CUST0576,Male,53,63,107.23,6792.48,Two Year,DSL,Bank Transfer,Yes,Yes,Yes,No
+CUST0577,Female,37,35,24.7,831.21,Month-to-Month,DSL,Credit Card,Yes,Yes,Yes,No
+CUST0578,Male,61,7,31.53,259.99,Month-to-Month,Fiber,E-Wallet,Yes,No,No,No
+CUST0579,Female,64,12,87.31,1034.28,Month-to-Month,None,Bank Transfer,No,No,Yes,Yes
+CUST0580,Female,53,57,32.61,1881.52,Month-to-Month,Fiber,Bank Transfer,No,No,No,Yes
+CUST0581,Female,41,68,78.36,5314.14,Month-to-Month,DSL,Bank Transfer,No,Yes,Yes,No
+CUST0582,Male,37,72,36.86,2628.67,One Year,None,UPI,No,Yes,No,Yes
+CUST0583,Male,27,26,42.67,1103.17,Month-to-Month,DSL,Debit Card,Yes,Yes,Yes,No
+CUST0584,Female,32,52,25.31,1308.86,Month-to-Month,Fiber,Debit Card,No,No,No,No
+CUST0585,Male,34,72,45.99,3359.52,Month-to-Month,DSL,UPI,Yes,Yes,No,No
+CUST0586,Female,61,70,54.94,3845.65,Month-to-Month,Fiber,Debit Card,Yes,Yes,No,No
+CUST0587,Female,53,31,116.87,3579.43,Month-to-Month,DSL,Bank Transfer,No,No,Yes,Yes
+CUST0588,Male,38,16,29.5,446.17,Two Year,Fiber,UPI,Yes,No,No,No
+CUST0589,Female,48,50,75.21,3758.63,Month-to-Month,DSL,Debit Card,Yes,Yes,No,No
+CUST0590,Male,55,7,37.74,306.07,One Year,Fiber,Bank Transfer,No,No,No,Yes
+CUST0591,Female,34,25,77.64,1950.47,One Year,DSL,UPI,Yes,No,No,No
+CUST0592,Male,45,40,56.05,2252.84,Month-to-Month,None,Bank Transfer,No,Yes,No,No
+CUST0593,Male,25,63,63.32,4018.9,Month-to-Month,None,Credit Card,Yes,Yes,Yes,Yes
+CUST0594,Male,49,35,24.48,876.44,One Year,Fiber,Bank Transfer,Yes,Yes,Yes,No
+CUST0595,Male,55,50,21.93,1052.95,Two Year,Fiber,UPI,Yes,No,Yes,Yes
+CUST0596,Male,21,56,66.28,3727.2,Month-to-Month,DSL,Bank Transfer,Yes,No,Yes,No
+CUST0597,Male,64,36,116.65,4208.68,Month-to-Month,Fiber,UPI,No,No,Yes,No
+CUST0598,Male,36,30,73.19,2181.88,Month-to-Month,DSL,E-Wallet,Yes,Yes,Yes,No
+CUST0599,Female,49,4,30.29,91.88,Month-to-Month,DSL,E-Wallet,No,Yes,Yes,No
+CUST0600,Male,54,2,58.78,131.42,Two Year,DSL,E-Wallet,Yes,Yes,Yes,No
+CUST0601,Male,34,28,77.55,2187.53,Month-to-Month,Fiber,UPI,Yes,Yes,No,No
+CUST0602,Female,30,32,100.21,3161.26,Month-to-Month,Fiber,Bank Transfer,Yes,Yes,Yes,Yes
+CUST0603,Female,53,40,20.62,839.93,Month-to-Month,DSL,Bank Transfer,Yes,Yes,No,No
+CUST0604,Male,52,71,89.05,6319.14,Month-to-Month,Fiber,UPI,Yes,Yes,Yes,No
+CUST0605,Female,67,30,89.88,2744.49,Month-to-Month,None,Bank Transfer,Yes,No,Yes,No
+CUST0606,Female,54,38,21.84,862.01,Month-to-Month,Fiber,Debit Card,Yes,Yes,No,Yes
+CUST0607,Female,53,29,68.93,1964.04,One Year,DSL,Debit Card,Yes,No,No,No
+CUST0608,Male,29,37,47.84,1743.34,Month-to-Month,Fiber,Debit Card,Yes,No,No,No
+CUST0609,Male,62,33,89.65,2975.41,Month-to-Month,Fiber,Debit Card,No,Yes,No,No
+CUST0610,Male,18,4,53.79,232.07,Month-to-Month,Fiber,E-Wallet,Yes,No,Yes,Yes
+CUST0611,Female,63,4,49.03,180.34,Month-to-Month,Fiber,Debit Card,Yes,Yes,Yes,No
+CUST0612,Female,67,14,93.7,1334.62,One Year,DSL,Debit Card,No,No,Yes,Yes
+CUST0613,Female,19,17,98.04,1695.9,Two Year,None,UPI,Yes,No,Yes,No
+CUST0614,Female,56,31,72.59,2228.97,One Year,Fiber,E-Wallet,Yes,Yes,Yes,No
+CUST0615,Female,53,21,110.63,2293.5,Month-to-Month,None,Credit Card,No,No,No,Yes
+CUST0616,Male,19,46,76.69,3518.43,Two Year,DSL,Debit Card,No,Yes,Yes,No
+CUST0617,Female,23,17,75.4,1308.19,Month-to-Month,DSL,Bank Transfer,No,Yes,No,No
+CUST0618,Male,55,35,104.76,3688.3,Two Year,Fiber,Debit Card,Yes,Yes,No,No
+CUST0619,Male,52,67,81.36,5446.33,One Year,None,Debit Card,Yes,No,No,No
+CUST0620,Female,38,71,108.66,7737.0,Month-to-Month,None,Bank Transfer,Yes,Yes,No,No
+CUST0621,Male,43,30,90.84,2746.58,One Year,Fiber,Debit Card,Yes,No,No,No
+CUST0622,Female,18,65,22.68,1520.75,One Year,DSL,Debit Card,Yes,Yes,Yes,Yes
+CUST0623,Male,63,6,105.47,632.34,One Year,DSL,UPI,No,Yes,Yes,No
+CUST0624,Female,25,23,118.97,2689.79,Two Year,Fiber,Bank Transfer,Yes,Yes,No,Yes
+CUST0625,Female,27,53,70.39,3777.12,One Year,DSL,Bank Transfer,No,No,No,No
+CUST0626,Female,49,4,110.02,449.66,One Year,DSL,E-Wallet,Yes,No,Yes,No
+CUST0627,Female,33,46,61.76,2804.01,Two Year,DSL,Bank Transfer,No,No,No,No
+CUST0628,Female,41,38,72.43,2709.75,One Year,Fiber,Credit Card,Yes,No,Yes,No
+CUST0629,Male,70,17,71.57,1261.36,Month-to-Month,Fiber,Debit Card,No,Yes,No,Yes
+CUST0630,Male,56,23,112.7,2627.64,One Year,DSL,Debit Card,Yes,Yes,No,No
+CUST0631,Male,69,19,119.27,2244.85,One Year,DSL,Credit Card,Yes,Yes,Yes,Yes
+CUST0632,Female,67,54,65.23,3490.35,Month-to-Month,DSL,E-Wallet,Yes,No,No,No
+CUST0633,Male,64,5,32.0,156.08,Month-to-Month,Fiber,E-Wallet,No,Yes,Yes,No
+CUST0634,Female,68,52,54.21,2854.58,Two Year,Fiber,Debit Card,Yes,No,Yes,No
+CUST0635,Male,67,35,98.06,3397.54,Month-to-Month,Fiber,E-Wallet,Yes,No,Yes,No
+CUST0636,Female,18,61,101.07,6206.57,Two Year,DSL,Debit Card,Yes,Yes,Yes,Yes
+CUST0637,Male,57,11,64.87,678.15,One Year,Fiber,Debit Card,Yes,Yes,Yes,No
+CUST0638,Male,69,35,98.49,3427.49,One Year,Fiber,E-Wallet,No,Yes,Yes,Yes
+CUST0639,Male,59,20,103.59,2111.28,One Year,DSL,Bank Transfer,No,No,No,No
+CUST0640,Male,19,48,87.47,4180.53,Month-to-Month,DSL,E-Wallet,No,No,Yes,Yes
+CUST0641,Male,61,9,108.04,1011.91,Month-to-Month,Fiber,Debit Card,No,No,Yes,Yes
+CUST0642,Female,51,59,35.48,2137.21,Month-to-Month,Fiber,Bank Transfer,No,Yes,Yes,No
+CUST0643,Female,55,15,111.74,1722.29,Month-to-Month,Fiber,UPI,Yes,Yes,Yes,Yes
+CUST0644,Female,52,52,82.4,4313.67,Two Year,Fiber,Bank Transfer,Yes,Yes,Yes,Yes
+CUST0645,Male,44,60,60.1,3580.68,Month-to-Month,Fiber,E-Wallet,Yes,Yes,Yes,No
+CUST0646,Male,43,60,74.63,4519.03,One Year,DSL,UPI,Yes,Yes,Yes,No
+CUST0647,Male,61,7,92.65,684.13,Month-to-Month,Fiber,Debit Card,Yes,No,No,Yes
+CUST0648,Male,28,22,109.86,2367.28,One Year,Fiber,Credit Card,Yes,No,Yes,No
+CUST0649,Male,69,17,41.62,697.42,Month-to-Month,None,E-Wallet,Yes,Yes,Yes,Yes
+CUST0650,Female,32,7,49.99,313.88,Month-to-Month,Fiber,Debit Card,No,Yes,Yes,No
+CUST0651,Female,64,20,56.96,1171.26,Month-to-Month,Fiber,Bank Transfer,No,Yes,No,No
+CUST0652,Female,32,42,28.33,1175.33,Month-to-Month,None,UPI,No,No,Yes,Yes
+CUST0653,Female,41,5,28.55,183.4,Month-to-Month,Fiber,UPI,No,No,Yes,No
+CUST0654,Male,28,10,27.3,248.42,Two Year,None,Bank Transfer,No,No,Yes,Yes
+CUST0655,Male,32,22,111.2,2466.67,Month-to-Month,DSL,Credit Card,No,Yes,Yes,Yes
+CUST0656,Female,62,55,110.42,6046.14,Month-to-Month,Fiber,Bank Transfer,No,No,Yes,Yes
+CUST0657,Female,56,24,111.86,2652.26,One Year,Fiber,Debit Card,Yes,Yes,No,No
+CUST0658,Male,27,45,102.65,4576.83,Month-to-Month,DSL,E-Wallet,Yes,Yes,No,Yes
+CUST0659,Male,24,2,114.53,249.52,Two Year,Fiber,Debit Card,No,No,Yes,Yes
+CUST0660,Female,27,9,100.33,947.71,One Year,DSL,Bank Transfer,No,No,Yes,No
+CUST0661,Female,47,62,104.78,6490.45,Month-to-Month,Fiber,E-Wallet,Yes,Yes,No,No
+CUST0662,Female,50,69,84.53,5796.71,Month-to-Month,DSL,UPI,No,No,Yes,Yes
+CUST0663,Male,41,59,83.22,4885.55,Two Year,Fiber,Bank Transfer,Yes,Yes,No,No
+CUST0664,Female,52,11,27.73,318.28,Month-to-Month,Fiber,E-Wallet,No,Yes,No,Yes
+CUST0665,Female,30,47,33.19,1587.65,Month-to-Month,DSL,UPI,No,Yes,No,Yes
+CUST0666,Male,34,14,102.53,1424.14,Two Year,DSL,Debit Card,Yes,No,No,No
+CUST0667,Female,42,7,94.74,667.14,Month-to-Month,DSL,Credit Card,Yes,No,No,Yes
+CUST0668,Female,55,71,38.67,2722.22,One Year,DSL,UPI,No,Yes,Yes,No
+CUST0669,Female,65,30,48.31,1444.21,One Year,None,Debit Card,No,No,Yes,No
+CUST0670,Female,18,5,35.63,151.65,Two Year,DSL,Debit Card,No,Yes,No,No
+CUST0671,Female,69,35,79.18,2757.0,Two Year,Fiber,Bank Transfer,Yes,Yes,No,No
+CUST0672,Female,62,49,115.01,5641.62,One Year,Fiber,E-Wallet,No,No,No,Yes
+CUST0673,Female,21,19,76.14,1475.31,One Year,DSL,Debit Card,Yes,Yes,Yes,No
+CUST0674,Female,43,15,98.75,1528.1,One Year,Fiber,Debit Card,Yes,Yes,No,No
+CUST0675,Male,60,56,107.19,5962.96,Month-to-Month,Fiber,Bank Transfer,Yes,No,No,Yes
+CUST0676,Female,24,38,23.35,861.5,Month-to-Month,Fiber,Debit Card,Yes,Yes,No,Yes
+CUST0677,Female,46,30,75.22,2287.56,Month-to-Month,None,E-Wallet,No,No,No,No
+CUST0678,Female,60,1,81.8,33.51,Month-to-Month,Fiber,Credit Card,No,Yes,Yes,Yes
+CUST0679,Male,20,53,75.86,4011.54,Month-to-Month,Fiber,E-Wallet,Yes,Yes,No,No
+CUST0680,Female,29,56,69.5,3845.94,One Year,DSL,Credit Card,Yes,No,Yes,No
+CUST0681,Male,43,60,119.31,7158.28,Month-to-Month,DSL,Bank Transfer,Yes,Yes,Yes,No
+CUST0682,Male,29,31,117.95,3687.17,Month-to-Month,Fiber,Bank Transfer,No,Yes,Yes,Yes
+CUST0683,Male,22,4,91.23,392.58,Month-to-Month,None,Debit Card,No,No,No,No
+CUST0684,Male,64,26,61.25,1580.86,One Year,None,E-Wallet,No,Yes,No,Yes
+CUST0685,Male,32,41,25.72,1048.91,Two Year,Fiber,E-Wallet,No,No,No,No
+CUST0686,Female,63,44,30.59,1343.17,Month-to-Month,Fiber,UPI,Yes,Yes,Yes,Yes
+CUST0687,Male,61,4,79.74,305.88,One Year,DSL,Debit Card,No,No,No,No
+CUST0688,Female,64,61,77.28,4715.31,Month-to-Month,None,UPI,No,No,Yes,Yes
+CUST0689,Female,27,72,33.79,2475.26,Two Year,None,E-Wallet,No,Yes,Yes,No
+CUST0690,Female,56,12,58.29,718.67,One Year,DSL,Debit Card,No,No,No,No
+CUST0691,Male,19,39,23.98,900.44,Month-to-Month,Fiber,Debit Card,Yes,Yes,Yes,No
+CUST0692,Male,31,50,92.46,4618.2,Two Year,Fiber,Credit Card,Yes,Yes,No,No
+CUST0693,Female,38,26,70.57,1874.06,Month-to-Month,None,Bank Transfer,No,No,Yes,Yes
+CUST0694,Female,63,37,94.05,3463.56,Month-to-Month,Fiber,Debit Card,No,No,No,Yes
+CUST0695,Male,36,38,51.05,1917.04,One Year,Fiber,Bank Transfer,Yes,No,No,No
+CUST0696,Female,34,45,75.86,3411.68,Month-to-Month,DSL,Debit Card,No,No,No,No
+CUST0697,Female,49,61,43.51,2664.07,Month-to-Month,Fiber,Debit Card,No,Yes,No,No
+CUST0698,Female,47,30,85.89,2564.19,Two Year,Fiber,Bank Transfer,No,No,Yes,No
+CUST0699,Male,38,12,26.07,273.31,One Year,DSL,Debit Card,Yes,Yes,Yes,No
+CUST0700,Male,64,44,45.42,2007.0,Two Year,DSL,UPI,Yes,Yes,Yes,No
+CUST0701,Male,60,2,97.82,238.1,Month-to-Month,Fiber,Credit Card,No,Yes,No,No
+CUST0702,Male,46,3,32.44,136.09,Month-to-Month,DSL,Debit Card,Yes,No,No,No
+CUST0703,Male,65,59,76.87,4538.27,One Year,Fiber,Debit Card,Yes,No,Yes,No
+CUST0704,Female,23,68,108.32,7330.7,Two Year,DSL,Debit Card,No,No,No,No
+CUST0705,Male,57,25,70.45,1778.32,Month-to-Month,Fiber,Bank Transfer,Yes,No,No,No
+CUST0706,Male,58,13,45.24,596.38,One Year,DSL,Bank Transfer,No,Yes,Yes,No
+CUST0707,Male,45,26,90.39,2344.01,Two Year,Fiber,Bank Transfer,Yes,No,No,No
+CUST0708,Male,32,27,96.33,2613.03,One Year,DSL,Bank Transfer,Yes,No,No,No
+CUST0709,Male,36,69,112.46,7807.83,One Year,DSL,E-Wallet,Yes,Yes,Yes,Yes
+CUST0710,Male,46,29,93.76,2692.52,Two Year,DSL,Credit Card,No,No,No,No
+CUST0711,Male,38,31,59.95,1833.08,One Year,DSL,E-Wallet,No,No,No,No
+CUST0712,Male,22,70,26.28,1866.74,Two Year,Fiber,E-Wallet,Yes,Yes,No,No
+CUST0713,Male,47,10,30.88,348.9,One Year,Fiber,Debit Card,Yes,No,Yes,No
+CUST0714,Male,46,6,105.06,662.97,Month-to-Month,Fiber,E-Wallet,No,Yes,Yes,Yes
+CUST0715,Male,64,53,87.12,4632.56,Month-to-Month,Fiber,Bank Transfer,Yes,Yes,Yes,No
+CUST0716,Male,68,40,22.45,890.58,Month-to-Month,Fiber,E-Wallet,No,No,No,No
+CUST0717,Male,68,4,77.67,327.13,One Year,Fiber,Debit Card,Yes,No,No,No
+CUST0718,Female,64,39,79.62,3138.4,Two Year,DSL,E-Wallet,Yes,No,No,No
+CUST0719,Female,55,39,66.9,2615.93,Month-to-Month,Fiber,Debit Card,No,No,Yes,No
+CUST0720,Male,65,23,115.48,2637.0,One Year,Fiber,Bank Transfer,Yes,Yes,Yes,No
+CUST0721,Male,54,40,117.6,4680.98,Month-to-Month,Fiber,Credit Card,No,Yes,No,No
+CUST0722,Female,59,22,76.95,1647.92,Month-to-Month,Fiber,Bank Transfer,No,Yes,Yes,No
+CUST0723,Female,67,71,89.99,6403.62,Month-to-Month,Fiber,Bank Transfer,No,No,No,Yes
+CUST0724,Male,27,56,86.55,4840.15,Month-to-Month,Fiber,Debit Card,No,Yes,Yes,No
+CUST0725,Female,31,53,58.28,3070.19,Month-to-Month,DSL,E-Wallet,No,Yes,No,No
+CUST0726,Male,62,47,98.51,4585.92,Two Year,Fiber,E-Wallet,No,No,No,Yes
+CUST0727,Male,61,47,102.42,4810.29,Month-to-Month,None,Credit Card,Yes,No,No,Yes
+CUST0728,Female,25,70,119.79,8387.15,Month-to-Month,DSL,Bank Transfer,No,No,Yes,Yes
+CUST0729,Male,69,40,61.97,2488.4,One Year,Fiber,Credit Card,No,Yes,No,Yes
+CUST0730,Male,50,2,114.16,190.84,Month-to-Month,Fiber,Debit Card,Yes,Yes,No,No
+CUST0731,Female,32,55,118.19,6527.93,Month-to-Month,Fiber,Credit Card,Yes,Yes,No,Yes
+CUST0732,Female,46,4,106.99,423.94,One Year,Fiber,E-Wallet,No,No,No,No
+CUST0733,Female,40,10,22.75,265.0,Month-to-Month,Fiber,UPI,No,Yes,Yes,Yes
+CUST0734,Male,52,3,72.23,189.94,One Year,DSL,Bank Transfer,No,Yes,No,No
+CUST0735,Male,55,67,92.62,6166.74,Two Year,Fiber,UPI,Yes,No,Yes,No
+CUST0736,Male,32,8,27.23,171.76,One Year,Fiber,Credit Card,No,Yes,No,No
+CUST0737,Male,32,4,99.3,377.04,Month-to-Month,Fiber,Credit Card,Yes,No,No,No
+CUST0738,Male,48,6,25.17,123.68,One Year,Fiber,UPI,Yes,Yes,No,No
+CUST0739,Female,31,47,39.19,1877.63,One Year,DSL,Debit Card,No,No,Yes,No
+CUST0740,Male,41,36,28.78,1010.65,Month-to-Month,Fiber,Bank Transfer,Yes,Yes,Yes,No
+CUST0741,Female,27,2,84.95,173.9,Two Year,Fiber,Bank Transfer,No,No,Yes,Yes
+CUST0742,Male,40,10,114.74,1163.52,Month-to-Month,DSL,UPI,No,Yes,No,No
+CUST0743,Male,66,30,49.57,1444.04,Month-to-Month,Fiber,Bank Transfer,No,Yes,No,Yes
+CUST0744,Female,39,5,25.81,104.71,Month-to-Month,DSL,UPI,No,Yes,No,No
+CUST0745,Male,55,65,84.21,5485.58,Two Year,None,Credit Card,No,Yes,Yes,Yes
+CUST0746,Male,62,59,86.55,5114.65,One Year,DSL,Credit Card,Yes,No,No,No
+CUST0747,Female,36,22,47.47,1030.08,One Year,Fiber,Debit Card,No,Yes,No,No
+CUST0748,Female,45,70,72.8,5103.36,Month-to-Month,DSL,Credit Card,No,No,Yes,Yes
+CUST0749,Female,42,31,98.28,3086.75,One Year,DSL,UPI,Yes,No,No,Yes
+CUST0750,Female,33,63,32.87,2054.45,One Year,Fiber,Debit Card,No,No,No,No
+CUST0751,Female,26,45,81.11,3612.92,Month-to-Month,DSL,E-Wallet,No,Yes,Yes,No
+CUST0752,Male,58,20,47.47,934.8,Two Year,Fiber,Credit Card,No,Yes,Yes,Yes
+CUST0753,Male,42,34,111.88,3783.41,Two Year,Fiber,E-Wallet,Yes,No,Yes,Yes
+CUST0754,Male,36,66,108.23,7140.74,Month-to-Month,Fiber,UPI,No,Yes,No,Yes
+CUST0755,Male,22,32,27.44,925.23,One Year,Fiber,Debit Card,Yes,Yes,No,No
+CUST0756,Female,48,39,43.24,1714.94,Month-to-Month,Fiber,Bank Transfer,Yes,No,No,Yes
+CUST0757,Male,54,63,74.28,4638.5,Month-to-Month,Fiber,Bank Transfer,Yes,No,Yes,Yes
+CUST0758,Female,25,45,47.47,2176.93,Month-to-Month,Fiber,Debit Card,No,Yes,No,Yes
+CUST0759,Male,20,37,26.73,976.32,Month-to-Month,DSL,Debit Card,Yes,Yes,No,No
+CUST0760,Male,30,52,45.32,2310.0,One Year,None,Credit Card,Yes,No,No,No
+CUST0761,Male,35,65,43.71,2872.76,Month-to-Month,Fiber,Debit Card,Yes,Yes,No,No
+CUST0762,Male,54,45,52.05,2322.7,Month-to-Month,Fiber,Bank Transfer,No,Yes,Yes,No
+CUST0763,Male,46,13,71.15,903.03,One Year,Fiber,Bank Transfer,No,Yes,No,No
+CUST0764,Female,58,65,74.36,4796.3,Month-to-Month,Fiber,Credit Card,Yes,No,No,No
+CUST0765,Female,46,42,83.29,3465.89,Month-to-Month,Fiber,Credit Card,No,No,No,No
+CUST0766,Male,19,13,69.05,881.14,Two Year,Fiber,E-Wallet,No,No,No,No
+CUST0767,Female,24,38,26.29,1046.38,One Year,Fiber,UPI,Yes,Yes,No,No
+CUST0768,Female,58,32,89.95,2902.69,One Year,DSL,Bank Transfer,No,No,Yes,Yes
+CUST0769,Male,33,72,78.05,5581.99,One Year,Fiber,Credit Card,No,Yes,No,No
+CUST0770,Female,37,29,32.98,928.19,Month-to-Month,Fiber,Credit Card,Yes,No,Yes,No
+CUST0771,Female,65,43,97.79,4227.5,Month-to-Month,Fiber,Bank Transfer,No,Yes,Yes,Yes
+CUST0772,Male,67,27,83.22,2209.19,One Year,DSL,Debit Card,Yes,No,Yes,Yes
+CUST0773,Female,20,67,36.75,2501.29,Two Year,Fiber,Bank Transfer,Yes,No,Yes,Yes
+CUST0774,Female,53,24,57.47,1360.34,Month-to-Month,DSL,UPI,No,No,Yes,Yes
+CUST0775,Male,19,38,91.49,3433.59,Month-to-Month,Fiber,Credit Card,Yes,No,No,Yes
+CUST0776,Female,66,16,74.77,1245.34,Month-to-Month,None,Bank Transfer,Yes,Yes,No,No
+CUST0777,Female,57,17,32.71,527.25,Month-to-Month,Fiber,Credit Card,Yes,No,No,No
+CUST0778,Male,35,14,90.53,1251.69,Two Year,DSL,Credit Card,Yes,Yes,No,No
+CUST0779,Male,32,16,102.01,1611.79,Two Year,DSL,E-Wallet,Yes,Yes,No,No
+CUST0780,Male,61,1,60.64,49.56,Two Year,DSL,E-Wallet,Yes,Yes,Yes,No
+CUST0781,Male,66,51,93.0,4743.44,Month-to-Month,Fiber,Credit Card,Yes,Yes,Yes,No
+CUST0782,Female,42,3,76.0,207.0,One Year,None,UPI,No,Yes,No,No
+CUST0783,Female,41,16,83.9,1325.49,Two Year,DSL,Credit Card,No,No,No,No
+CUST0784,Female,32,55,92.78,5068.29,Month-to-Month,Fiber,Credit Card,Yes,No,No,No
+CUST0785,Female,24,17,85.99,1445.74,One Year,DSL,Bank Transfer,No,No,Yes,No
+CUST0786,Male,22,4,93.52,392.44,Month-to-Month,DSL,E-Wallet,No,No,Yes,Yes
+CUST0787,Male,19,50,42.45,2081.62,Two Year,DSL,Debit Card,No,Yes,Yes,No
+CUST0788,Male,37,56,65.93,3712.6,Month-to-Month,Fiber,UPI,Yes,Yes,No,No
+CUST0789,Male,68,32,98.28,3160.91,Two Year,DSL,E-Wallet,No,Yes,Yes,Yes
+CUST0790,Female,29,3,41.77,136.36,Two Year,DSL,Credit Card,Yes,No,No,Yes
+CUST0791,Male,54,16,66.49,1028.17,Month-to-Month,Fiber,E-Wallet,No,No,No,Yes
+CUST0792,Female,28,25,103.03,2596.99,Month-to-Month,Fiber,E-Wallet,No,No,No,No
+CUST0793,Female,23,42,112.87,4696.68,Month-to-Month,Fiber,Credit Card,No,No,No,No
+CUST0794,Male,28,3,87.07,301.51,Two Year,Fiber,UPI,No,Yes,No,Yes
+CUST0795,Male,31,38,30.72,1152.76,Month-to-Month,Fiber,UPI,No,Yes,No,Yes
+CUST0796,Female,42,13,113.57,1447.94,One Year,DSL,Debit Card,Yes,No,Yes,No
+CUST0797,Female,23,72,80.0,5724.45,Month-to-Month,Fiber,Debit Card,Yes,No,Yes,No
+CUST0798,Male,66,15,28.6,446.98,Month-to-Month,DSL,Credit Card,Yes,No,Yes,No
+CUST0799,Female,68,63,87.68,5488.58,Two Year,DSL,Credit Card,Yes,Yes,No,Yes
+CUST0800,Male,47,70,49.77,3438.9,Two Year,DSL,E-Wallet,Yes,No,No,No
+CUST0801,Female,20,6,67.62,391.21,Two Year,None,Debit Card,Yes,No,No,Yes
+CUST0802,Female,47,40,73.59,2920.1,Month-to-Month,Fiber,UPI,No,No,No,No
+CUST0803,Male,66,32,118.75,3753.21,Two Year,Fiber,Debit Card,No,Yes,No,Yes
+CUST0804,Female,70,61,37.97,2274.77,Month-to-Month,DSL,Bank Transfer,No,Yes,No,No
+CUST0805,Male,35,36,25.26,879.8,Month-to-Month,DSL,Debit Card,Yes,Yes,Yes,Yes
+CUST0806,Female,44,22,90.83,1991.55,One Year,Fiber,UPI,No,No,Yes,Yes
+CUST0807,Female,42,61,68.04,4120.19,Month-to-Month,Fiber,Debit Card,Yes,Yes,No,Yes
+CUST0808,Female,48,56,70.64,3931.33,One Year,None,Bank Transfer,No,No,Yes,Yes
+CUST0809,Female,50,21,116.24,2472.56,Month-to-Month,DSL,Debit Card,No,Yes,No,Yes
+CUST0810,Female,68,24,101.65,2396.53,Month-to-Month,Fiber,Bank Transfer,No,Yes,No,No
+CUST0811,Female,19,12,50.51,564.2,One Year,Fiber,E-Wallet,Yes,No,Yes,No
+CUST0812,Male,46,1,71.15,114.59,Month-to-Month,Fiber,Debit Card,No,Yes,Yes,No
+CUST0813,Female,31,33,87.46,2903.77,Two Year,None,UPI,No,No,Yes,No
+CUST0814,Male,57,58,48.8,2857.09,Two Year,Fiber,UPI,Yes,Yes,No,No
+CUST0815,Male,29,22,58.23,1291.6,Month-to-Month,DSL,E-Wallet,Yes,No,Yes,Yes
+CUST0816,Female,65,34,64.5,2143.22,One Year,DSL,Debit Card,Yes,No,Yes,No
+CUST0817,Female,67,50,52.58,2585.05,Month-to-Month,Fiber,Credit Card,No,Yes,Yes,Yes
+CUST0818,Female,51,12,72.52,826.74,One Year,Fiber,UPI,No,Yes,No,No
+CUST0819,Female,47,27,69.94,1875.84,Month-to-Month,DSL,Bank Transfer,No,Yes,Yes,Yes
+CUST0820,Female,38,4,61.83,213.9,One Year,Fiber,UPI,No,No,No,No
+CUST0821,Female,62,40,32.95,1364.11,Month-to-Month,Fiber,E-Wallet,No,Yes,No,No
+CUST0822,Male,51,50,61.04,3016.06,Month-to-Month,Fiber,E-Wallet,No,Yes,Yes,No
+CUST0823,Male,44,63,53.93,3397.44,One Year,DSL,UPI,No,No,Yes,No
+CUST0824,Female,18,47,115.78,5453.42,Month-to-Month,Fiber,E-Wallet,No,No,Yes,Yes
+CUST0825,Female,67,15,28.63,421.91,Month-to-Month,Fiber,UPI,Yes,Yes,No,No
+CUST0826,Male,20,48,86.79,4136.1,Two Year,Fiber,Credit Card,Yes,Yes,No,No
+CUST0827,Female,36,37,116.31,4311.63,Two Year,None,Debit Card,Yes,No,Yes,No
+CUST0828,Female,31,34,104.1,3555.29,Two Year,None,Bank Transfer,No,Yes,Yes,Yes
+CUST0829,Male,64,54,78.2,4268.59,Two Year,Fiber,Bank Transfer,Yes,Yes,Yes,No
+CUST0830,Male,21,63,118.75,7488.41,Month-to-Month,Fiber,E-Wallet,No,No,Yes,No
+CUST0831,Female,24,21,85.54,1841.24,Month-to-Month,Fiber,E-Wallet,No,No,Yes,Yes
+CUST0832,Male,18,56,48.73,2705.67,Month-to-Month,Fiber,Credit Card,Yes,Yes,Yes,Yes
+CUST0833,Female,33,16,63.39,1015.11,Month-to-Month,Fiber,Bank Transfer,No,Yes,No,No
+CUST0834,Male,21,29,108.22,3170.91,Two Year,Fiber,Debit Card,Yes,No,Yes,No
+CUST0835,Male,38,13,113.91,1463.89,One Year,Fiber,UPI,No,No,No,Yes
+CUST0836,Female,19,36,93.21,3385.34,One Year,Fiber,Credit Card,No,Yes,No,Yes
+CUST0837,Male,65,12,94.94,1182.3,Month-to-Month,Fiber,Bank Transfer,No,Yes,Yes,Yes
+CUST0838,Male,20,19,67.61,1313.37,One Year,DSL,E-Wallet,Yes,Yes,No,No
+CUST0839,Female,18,44,40.98,1816.37,One Year,DSL,Credit Card,No,No,No,No
+CUST0840,Female,18,1,38.19,-6.64,One Year,Fiber,Credit Card,No,No,Yes,No
+CUST0841,Female,56,59,28.52,1643.97,One Year,DSL,Credit Card,Yes,No,Yes,No
+CUST0842,Female,23,63,97.6,6106.27,Month-to-Month,DSL,Bank Transfer,No,Yes,Yes,No
+CUST0843,Male,58,43,92.8,3963.3,Two Year,Fiber,E-Wallet,Yes,No,Yes,No
+CUST0844,Male,26,70,74.36,5187.88,Month-to-Month,DSL,Credit Card,No,No,Yes,Yes
+CUST0845,Male,49,16,25.1,394.26,Month-to-Month,Fiber,Bank Transfer,Yes,Yes,Yes,Yes
+CUST0846,Male,66,15,65.35,1023.26,Two Year,Fiber,Bank Transfer,No,No,No,No
+CUST0847,Male,67,11,88.95,990.06,Month-to-Month,Fiber,Debit Card,No,No,No,No
+CUST0848,Male,55,43,75.8,3303.39,One Year,Fiber,E-Wallet,Yes,No,No,No
+CUST0849,Female,51,31,41.07,1232.13,One Year,Fiber,E-Wallet,No,Yes,Yes,No
+CUST0850,Female,29,3,31.29,70.77,Month-to-Month,None,Bank Transfer,No,Yes,Yes,Yes
+CUST0851,Female,22,69,69.54,4844.92,Month-to-Month,Fiber,UPI,Yes,Yes,No,No
+CUST0852,Female,48,68,112.7,7625.15,Two Year,DSL,Bank Transfer,Yes,No,No,Yes
+CUST0853,Female,25,58,108.63,6264.2,Month-to-Month,DSL,Debit Card,No,No,No,Yes
+CUST0854,Female,33,65,35.59,2311.93,One Year,Fiber,Credit Card,No,No,No,No
+CUST0855,Female,26,15,107.04,1624.94,Two Year,Fiber,Credit Card,No,No,No,Yes
+CUST0856,Female,62,46,55.14,2554.77,Two Year,DSL,E-Wallet,Yes,Yes,Yes,Yes
+CUST0857,Female,43,45,28.5,1306.28,Two Year,DSL,E-Wallet,No,No,No,Yes
+CUST0858,Female,27,37,60.22,2202.24,One Year,None,E-Wallet,Yes,No,No,Yes
+CUST0859,Female,46,49,30.38,1457.26,One Year,DSL,Debit Card,Yes,Yes,Yes,No
+CUST0860,Female,38,23,100.1,2301.36,Month-to-Month,DSL,Credit Card,No,No,No,No
+CUST0861,Female,20,59,119.62,7062.43,Month-to-Month,Fiber,Bank Transfer,No,Yes,No,Yes
+CUST0862,Female,56,39,90.83,3526.56,Month-to-Month,DSL,Bank Transfer,Yes,No,No,Yes
+CUST0863,Female,61,26,45.84,1205.33,One Year,Fiber,Bank Transfer,Yes,No,No,No
+CUST0864,Male,41,13,100.65,1356.78,One Year,DSL,Credit Card,Yes,Yes,Yes,No
+CUST0865,Male,43,56,42.3,2355.67,Month-to-Month,DSL,E-Wallet,No,No,No,Yes
+CUST0866,Female,46,44,113.39,5026.33,Month-to-Month,DSL,Credit Card,Yes,Yes,Yes,Yes
+CUST0867,Female,34,55,59.47,3297.59,Month-to-Month,DSL,Bank Transfer,No,No,No,Yes
+CUST0868,Female,22,59,79.63,4685.74,Two Year,Fiber,E-Wallet,No,No,No,No
+CUST0869,Male,38,2,113.92,273.29,One Year,Fiber,Bank Transfer,No,No,No,Yes
+CUST0870,Male,56,23,25.3,572.25,Month-to-Month,DSL,UPI,No,Yes,Yes,No
+CUST0871,Male,53,15,45.76,731.31,Month-to-Month,DSL,UPI,No,No,Yes,Yes
+CUST0872,Female,37,16,32.32,500.16,Month-to-Month,Fiber,Credit Card,No,Yes,Yes,No
+CUST0873,Male,41,68,111.83,7555.15,One Year,DSL,Debit Card,No,No,Yes,No
+CUST0874,Male,18,37,32.08,1198.89,One Year,Fiber,Debit Card,Yes,Yes,Yes,No
+CUST0875,Male,44,44,119.89,5239.24,Month-to-Month,DSL,Debit Card,No,Yes,No,Yes
+CUST0876,Male,19,40,65.6,2610.43,One Year,Fiber,Bank Transfer,Yes,Yes,No,No
+CUST0877,Female,56,54,107.49,5777.82,Month-to-Month,DSL,Credit Card,Yes,No,Yes,Yes
+CUST0878,Female,40,38,107.93,4093.53,One Year,Fiber,Bank Transfer,Yes,Yes,Yes,Yes
+CUST0879,Male,33,16,114.5,1825.12,Month-to-Month,DSL,Credit Card,No,Yes,Yes,Yes
+CUST0880,Female,40,38,109.1,4178.94,Month-to-Month,Fiber,Debit Card,No,No,No,Yes
+CUST0881,Male,48,63,21.87,1405.47,One Year,Fiber,E-Wallet,Yes,No,Yes,No
+CUST0882,Male,70,70,88.84,6254.85,One Year,Fiber,Credit Card,Yes,No,Yes,No
+CUST0883,Female,51,57,113.13,6451.81,One Year,DSL,UPI,No,Yes,No,No
+CUST0884,Female,25,36,51.33,1856.59,Month-to-Month,DSL,Debit Card,Yes,No,No,Yes
+CUST0885,Female,52,58,52.29,2994.89,One Year,DSL,Bank Transfer,Yes,No,No,No
+CUST0886,Female,48,23,22.89,521.89,Month-to-Month,DSL,E-Wallet,No,Yes,No,No
+CUST0887,Female,23,49,83.42,4054.26,One Year,DSL,UPI,No,No,No,Yes
+CUST0888,Male,68,12,50.55,639.26,One Year,Fiber,Credit Card,Yes,No,Yes,Yes
+CUST0889,Female,66,68,21.58,1456.99,One Year,DSL,E-Wallet,No,Yes,No,No
+CUST0890,Female,65,63,114.87,7213.39,Month-to-Month,DSL,E-Wallet,Yes,No,Yes,Yes
+CUST0891,Female,46,68,23.58,1643.22,Two Year,Fiber,Bank Transfer,No,Yes,Yes,Yes
+CUST0892,Male,40,1,55.78,87.41,One Year,Fiber,UPI,Yes,No,No,Yes
+CUST0893,Female,21,26,104.72,2741.04,Month-to-Month,DSL,Bank Transfer,No,No,No,No
+CUST0894,Female,20,47,73.55,3427.66,Two Year,Fiber,Debit Card,Yes,No,Yes,No
+CUST0895,Female,28,7,51.94,317.21,Month-to-Month,Fiber,UPI,Yes,Yes,Yes,Yes
+CUST0896,Female,62,49,35.87,1759.43,Month-to-Month,DSL,Credit Card,Yes,No,Yes,No
+CUST0897,Male,41,40,25.54,1039.44,Month-to-Month,DSL,Credit Card,Yes,Yes,No,No
+CUST0898,Male,46,51,72.16,3649.15,One Year,Fiber,Credit Card,No,No,No,No
+CUST0899,Female,57,59,97.64,5798.91,Month-to-Month,DSL,Bank Transfer,Yes,No,Yes,Yes
+CUST0900,Female,48,64,95.43,6149.66,Month-to-Month,Fiber,Bank Transfer,No,No,No,Yes
+CUST0901,Male,67,36,44.74,1575.25,Month-to-Month,Fiber,Credit Card,Yes,No,Yes,No
+CUST0902,Male,42,43,39.73,1691.46,One Year,DSL,UPI,No,No,No,No
+CUST0903,Female,30,2,67.06,139.17,Two Year,DSL,E-Wallet,No,Yes,Yes,No
+CUST0904,Female,42,32,27.71,877.01,One Year,Fiber,UPI,Yes,No,Yes,No
+CUST0905,Male,42,47,117.72,5522.25,Month-to-Month,DSL,Debit Card,Yes,No,Yes,Yes
+CUST0906,Male,25,60,106.46,6419.78,Month-to-Month,DSL,Bank Transfer,Yes,Yes,Yes,Yes
+CUST0907,Female,69,37,30.56,1092.25,Month-to-Month,Fiber,Bank Transfer,No,Yes,No,No
+CUST0908,Male,30,36,117.08,4191.91,Month-to-Month,DSL,E-Wallet,Yes,No,No,Yes
+CUST0909,Female,20,27,99.2,2685.34,Month-to-Month,Fiber,Debit Card,No,Yes,No,Yes
+CUST0910,Female,42,69,70.93,4871.85,Month-to-Month,None,Credit Card,No,No,Yes,Yes
+CUST0911,Male,43,37,43.45,1581.65,Month-to-Month,DSL,UPI,Yes,Yes,No,Yes
+CUST0912,Male,27,35,47.09,1611.08,Two Year,DSL,Credit Card,No,Yes,No,No
+CUST0913,Female,69,2,83.98,152.64,Two Year,Fiber,Debit Card,Yes,No,Yes,No
+CUST0914,Female,23,51,118.03,5970.79,One Year,Fiber,E-Wallet,Yes,Yes,No,Yes
+CUST0915,Male,67,6,90.43,547.28,Two Year,None,Bank Transfer,No,Yes,Yes,No
+CUST0916,Male,35,15,118.57,1752.79,Two Year,DSL,Credit Card,No,Yes,Yes,Yes
+CUST0917,Male,52,15,37.73,554.4,Month-to-Month,DSL,E-Wallet,Yes,No,Yes,No
+CUST0918,Female,37,32,94.7,3062.36,Month-to-Month,Fiber,UPI,Yes,Yes,Yes,Yes
+CUST0919,Male,19,2,32.48,25.31,Month-to-Month,None,E-Wallet,Yes,Yes,Yes,No
+CUST0920,Male,18,22,32.73,697.21,Month-to-Month,Fiber,Debit Card,Yes,No,Yes,Yes
+CUST0921,Male,61,12,43.43,550.5,Month-to-Month,Fiber,Bank Transfer,No,No,No,Yes
+CUST0922,Male,63,43,28.81,1211.71,One Year,Fiber,UPI,No,Yes,No,Yes
+CUST0923,Male,33,1,32.78,18.69,Two Year,Fiber,Debit Card,Yes,Yes,Yes,No
+CUST0924,Male,44,1,71.75,59.1,Month-to-Month,None,Debit Card,No,No,No,Yes
+CUST0925,Male,49,13,50.94,612.66,Month-to-Month,Fiber,Debit Card,Yes,No,Yes,No
+CUST0926,Male,29,29,24.71,715.45,Month-to-Month,Fiber,Debit Card,No,No,No,No
+CUST0927,Male,49,10,42.72,473.01,One Year,Fiber,Bank Transfer,No,Yes,Yes,No
+CUST0928,Female,67,13,114.74,1469.5,One Year,Fiber,UPI,Yes,No,No,No
+CUST0929,Male,59,38,92.15,3520.84,Two Year,Fiber,Debit Card,Yes,Yes,No,Yes
+CUST0930,Female,69,23,29.89,641.44,One Year,Fiber,E-Wallet,Yes,No,No,Yes
+CUST0931,Male,64,21,83.08,1788.76,Month-to-Month,Fiber,UPI,No,Yes,Yes,Yes
+CUST0932,Female,38,8,34.13,274.14,Month-to-Month,DSL,Debit Card,No,Yes,No,No
+CUST0933,Female,68,28,103.03,2929.67,One Year,DSL,UPI,Yes,Yes,Yes,No
+CUST0934,Female,53,11,112.74,1257.05,Month-to-Month,Fiber,Bank Transfer,No,No,Yes,Yes
+CUST0935,Male,62,27,26.6,700.36,Month-to-Month,Fiber,E-Wallet,No,No,Yes,Yes
+CUST0936,Female,28,3,79.84,254.6,Month-to-Month,Fiber,Debit Card,Yes,No,Yes,No
+CUST0937,Male,20,14,114.24,1563.73,Two Year,Fiber,UPI,No,Yes,Yes,No
+CUST0938,Male,48,41,74.75,3087.14,Month-to-Month,DSL,Credit Card,No,No,No,No
+CUST0939,Female,42,26,80.83,2084.32,One Year,Fiber,E-Wallet,Yes,Yes,No,No
+CUST0940,Female,31,1,21.02,18.17,One Year,Fiber,Bank Transfer,No,Yes,No,No
+CUST0941,Female,51,49,75.17,3682.84,One Year,Fiber,Bank Transfer,No,Yes,Yes,Yes
+CUST0942,Male,20,47,24.73,1186.55,One Year,Fiber,UPI,No,No,Yes,Yes
+CUST0943,Male,50,12,21.91,305.84,Month-to-Month,None,E-Wallet,No,No,Yes,Yes
+CUST0944,Male,25,55,79.71,4357.05,Month-to-Month,None,E-Wallet,No,Yes,No,No
+CUST0945,Male,36,65,85.12,5502.73,Two Year,DSL,Debit Card,No,No,Yes,Yes
+CUST0946,Male,60,22,101.5,2221.7,Two Year,Fiber,Credit Card,No,No,No,No
+CUST0947,Male,36,5,51.36,217.33,Month-to-Month,DSL,Credit Card,No,No,Yes,Yes
+CUST0948,Male,67,47,116.79,5534.39,Month-to-Month,DSL,Bank Transfer,No,No,No,Yes
+CUST0949,Male,50,31,61.11,1887.41,One Year,DSL,E-Wallet,No,Yes,No,No
+CUST0950,Male,46,23,110.67,2542.78,One Year,Fiber,Credit Card,No,No,No,No
+CUST0951,Female,36,25,29.59,740.7,Month-to-Month,Fiber,Bank Transfer,Yes,Yes,Yes,No
+CUST0952,Female,70,40,93.63,3723.73,One Year,None,Debit Card,Yes,Yes,Yes,No
+CUST0953,Male,64,62,50.82,3139.02,One Year,Fiber,Bank Transfer,Yes,Yes,Yes,No
+CUST0954,Male,21,41,46.81,1934.48,One Year,Fiber,Debit Card,No,Yes,No,No
+CUST0955,Male,61,59,67.39,3991.47,One Year,DSL,E-Wallet,No,No,Yes,No
+CUST0956,Male,26,21,36.31,756.33,One Year,Fiber,Credit Card,Yes,Yes,Yes,No
+CUST0957,Female,51,70,96.58,6783.46,Two Year,Fiber,Bank Transfer,Yes,Yes,No,Yes
+CUST0958,Female,47,61,70.13,4303.99,Month-to-Month,DSL,UPI,No,Yes,No,No
+CUST0959,Male,70,46,39.59,1829.5,Month-to-Month,None,Credit Card,Yes,No,Yes,Yes
+CUST0960,Male,19,49,95.06,4654.23,Month-to-Month,DSL,Credit Card,Yes,Yes,No,No
+CUST0961,Female,65,17,37.0,639.57,Two Year,Fiber,UPI,No,No,Yes,Yes
+CUST0962,Female,52,44,29.83,1275.83,Month-to-Month,Fiber,Bank Transfer,Yes,No,Yes,No
+CUST0963,Male,32,31,86.91,2707.25,Month-to-Month,DSL,Credit Card,No,Yes,No,No
+CUST0964,Male,37,31,83.31,2584.52,One Year,DSL,UPI,Yes,No,No,No
+CUST0965,Female,40,72,92.93,6733.23,One Year,DSL,E-Wallet,No,No,No,Yes
+CUST0966,Male,26,31,27.89,866.03,Two Year,Fiber,Credit Card,No,Yes,Yes,No
+CUST0967,Female,61,52,61.43,3180.4,One Year,DSL,E-Wallet,Yes,Yes,Yes,No
+CUST0968,Male,62,53,27.16,1389.88,Two Year,DSL,E-Wallet,No,Yes,Yes,Yes
+CUST0969,Male,52,63,64.46,4046.52,Month-to-Month,Fiber,Bank Transfer,No,Yes,Yes,Yes
+CUST0970,Male,59,1,118.14,125.19,Month-to-Month,DSL,UPI,No,No,Yes,Yes
+CUST0971,Female,68,27,114.75,3135.28,Month-to-Month,None,Bank Transfer,Yes,Yes,Yes,Yes
+CUST0972,Male,57,29,42.35,1192.27,One Year,DSL,UPI,Yes,Yes,Yes,No
+CUST0973,Female,54,26,62.51,1618.12,One Year,DSL,Debit Card,No,Yes,No,No
+CUST0974,Female,22,10,28.57,237.91,Month-to-Month,DSL,Bank Transfer,No,No,No,Yes
+CUST0975,Male,63,3,97.29,334.81,Two Year,DSL,UPI,Yes,No,Yes,No
+CUST0976,Female,55,56,117.36,6611.12,Month-to-Month,DSL,E-Wallet,Yes,Yes,Yes,No
+CUST0977,Female,18,58,37.86,2211.06,One Year,Fiber,Debit Card,No,No,Yes,Yes
+CUST0978,Female,45,40,115.27,4589.64,Month-to-Month,DSL,Credit Card,Yes,Yes,No,No
+CUST0979,Female,43,6,85.61,496.3,Month-to-Month,Fiber,Credit Card,No,Yes,No,No
+CUST0980,Male,20,67,78.12,5205.36,One Year,Fiber,Bank Transfer,Yes,Yes,Yes,Yes
+CUST0981,Female,49,31,30.31,893.07,One Year,DSL,Bank Transfer,No,Yes,No,Yes
+CUST0982,Male,63,31,113.79,3566.37,Month-to-Month,DSL,Bank Transfer,Yes,Yes,No,Yes
+CUST0983,Male,29,38,94.37,3621.5,Month-to-Month,DSL,Bank Transfer,No,No,Yes,Yes
+CUST0984,Male,30,23,47.82,1131.02,One Year,DSL,Bank Transfer,Yes,No,No,No
+CUST0985,Female,60,30,113.08,3347.92,Month-to-Month,Fiber,E-Wallet,Yes,Yes,No,Yes
+CUST0986,Male,45,4,75.45,343.43,Month-to-Month,None,UPI,Yes,Yes,Yes,Yes
+CUST0987,Female,57,64,96.33,6149.75,One Year,DSL,UPI,Yes,Yes,No,No
+CUST0988,Male,59,44,105.38,4638.75,Two Year,Fiber,UPI,Yes,Yes,No,No
+CUST0989,Male,46,8,91.45,770.63,Two Year,Fiber,Bank Transfer,Yes,No,No,Yes
+CUST0990,Male,25,5,62.23,296.52,Two Year,Fiber,E-Wallet,Yes,No,Yes,No
+CUST0991,Female,24,10,58.49,609.82,One Year,DSL,Bank Transfer,No,Yes,No,No
+CUST0992,Male,41,43,109.67,4685.63,One Year,Fiber,UPI,No,Yes,No,No
+CUST0993,Male,40,49,87.91,4264.03,Two Year,Fiber,Bank Transfer,No,Yes,Yes,Yes
+CUST0994,Female,25,35,63.53,2210.82,Month-to-Month,DSL,Debit Card,Yes,Yes,Yes,No
+CUST0995,Female,25,62,104.47,6503.58,Month-to-Month,Fiber,UPI,No,Yes,No,Yes
+CUST0996,Male,21,55,20.06,1106.0,Month-to-Month,Fiber,Debit Card,Yes,Yes,No,No
+CUST0997,Female,38,69,34.3,2403.7,Month-to-Month,DSL,Debit Card,No,No,Yes,Yes
+CUST0998,Female,70,22,113.71,2473.67,One Year,Fiber,Bank Transfer,Yes,No,Yes,No
+CUST0999,Female,45,49,78.64,3886.08,Month-to-Month,None,Credit Card,Yes,Yes,Yes,No
+CUST1000,Female,42,24,97.66,2299.55,Month-to-Month,DSL,Debit Card,No,Yes,No,No
